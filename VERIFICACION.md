@@ -38,3 +38,11 @@ Las páginas de recursos separan lo comprobado de lo pendiente. No se garantiza 
 El contenido de esta entrega se prepara en memoria y se publica mediante las API de GitHub. No se crea clon, carpeta de trabajo, archivo temporal ni sitio web local. No se modifican otros repositorios.
 
 Las respuestas de práctica son originales. La revisión del estudiante y cualquier revisión académica externa continúan pendientes.
+
+## Ampliación de la lección 2 · 27-10-2026
+
+Se incorpora el Anexo 2A, síntesis de Open Source Guides con atribución CC BY 4.0 y ampliaciones apoyadas en fuentes específicas. Incluye una imagen SVG original y navegación desde lección, curso, inicio y recursos. La licencia del repositorio no cambia.
+
+Se consultan la página histórica NASA (2015/2021), OMB M-16-21 (2016) y el seguimiento GAO que indica la expiración del piloto. El 20 % no se presenta como obligación universal actual ni como cláusula de cualquier subvención. No se recuperó el enlace original del Departamento de Comercio. USGS se revisó desde su texto indexado; la apertura directa devolvió 403.
+
+Se revisan OSI, MIT, Apache-2.0, GPL-3.0, Creative Commons, GitHub y DCO. Los enlaces GNU de AGPL consultados devolvieron timeout; no se añaden conclusiones específicas a partir de ellos. No se verifica compatibilidad jurídica de un proyecto real.

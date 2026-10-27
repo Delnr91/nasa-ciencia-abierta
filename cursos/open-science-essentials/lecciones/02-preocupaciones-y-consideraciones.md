@@ -125,7 +125,7 @@ La lección menciona ejemplos estadounidenses: ITAR, EAR, HIPAA, información co
 
 Estas referencias no se convierten automáticamente en obligaciones para cualquier estudiante, país o proyecto. La aplicabilidad requiere examinar el caso y consultar los responsables competentes. No se ofrece asesoría jurídica ni se afirma cumplimiento.
 
-Las citas de políticas del Departamento de Comercio o USGS y el porcentaje histórico de código abierto incluido en el fragmento **no se reproducen como políticas vigentes verificadas**: faltan sus enlaces originales y su contexto temporal.
+Las tres referencias sobre publicación de código se desarrollan con fuentes y contexto en [Financiación pública y publicación de código](#8-financiación-pública-y-publicación-de-código).
 
 ## 6. El estudio de los gemelos: valor científico y privacidad
 
@@ -149,6 +149,54 @@ Preguntas para pensar, no una certificación automática:
 6. ¿Cómo quedarán claros el alcance, las limitaciones y el mantenimiento?
 
 Cuando falta información, se consulta a quienes tienen responsabilidad sobre ella. No se publica primero para decidir después.
+
+## 8. Financiación pública y publicación de código
+
+El curso muestra tres ejemplos de apertura institucional. Conviene distinguir **promoción de colaboración**, **política de adquisiciones** y **condiciones de una subvención**: no son documentos equivalentes.
+
+### NASA: apoyo a la publicación abierta
+
+La frase sobre contactar con proyectos internos se localizó en [NASA Open Source Development](https://www.nasa.gov/nasa-open-source-development/). La página declara publicación original de **2015** y actualización en **2021**; describe acciones para fomentar repositorios y colaboración.
+
+**Lectura correcta:** es un ejemplo de promoción institucional. La frase por sí sola no demuestra que toda subvención actual obligue a abrir cualquier código. Para una ayuda concreta deben revisarse la convocatoria, sus condiciones y la autorización de publicación.
+
+### La regla del 20 %: un programa piloto histórico
+
+El curso atribuye la frase al Departamento de Comercio. No se recuperó su enlace original, pero la regla se encuentra en **OMB M-16-21, del 8 de agosto de 2016**.
+
+El memorando estableció un **piloto de tres años** para publicar como código abierto al menos el **20 % del código nuevo desarrollado a medida**, en el ámbito definido por la política. También distingue reutilización entre agencias y publicación abierta al público. [Documento original, páginas 1–2 y sección 5](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m_16_21.pdf).
+
+**Actualización:** GAO marca como no vigente la recomendación de implementar ese piloto porque **el programa expiró**. Esto no significa que todas las políticas posteriores de apertura hayan desaparecido, sino que ese porcentaje no debe presentarse como una cuota universal vigente en 2026. [GAO-19-457, recomendación 1](https://www.gao.gov/products/gao-19-457).
+
+No se deduce que cualquier estudiante, empresa o proyecto financiado en otro contexto tenga que abrir el 20 % de su repositorio.
+
+### USGS: dominio público con alcance y excepciones
+
+La frase sobre software de dominio público aparece en [IM OSQI 2019-01](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release), apartados 2.A y 5.I.
+
+El documento describe software científico desarrollado por empleados del USGS en funciones oficiales o en su nombre, atendiendo condiciones de acuerdos, contratos y subvenciones. También contempla privacidad, confidencialidad, seguridad y restricciones de licencia. Los componentes de terceros conservan sus condiciones y atribución.
+
+**Lectura correcta:** dominio público no significa que desaparezcan todos los controles de publicación. La política incluye documentación, revisión y aprobación. El texto oficial se consultó mediante su indexación, porque la apertura directa devolvió 403; no se afirma haber auditado todas sus actualizaciones.
+
+### Qué buscar en una subvención concreta
+
+**Actividad de lectura propuesta:** prepara una ficha sin publicar documentos restringidos.
+
+| Campo | Qué localizar |
+|---|---|
+| Organismo y programa | Nombre y edición exactos |
+| Producto | Código, datos, artículo u otro resultado |
+| Acción | Compartir permitido, requerido, restringido o sujeto a aprobación |
+| Momento | Plazos y posibles embargos |
+| Derechos | Titular y autorización para licenciar |
+| Condiciones | Componentes ajenos e información sensible |
+| Evidencia | Documento, sección, fecha y responsable de consulta |
+
+Si no encuentras una obligación, anota **pendiente de verificar**. Las tres frases del curso no reemplazan esa revisión.
+
+## Anexo de esta lección
+
+[📎 Anexo 2A · Aspectos legales del código abierto](../anexos/02-aspectos-legales-codigo-abierto.md): repositorios públicos, licencias de software y contenidos, contribuciones, CLA/DCO, derechos y cambios de licencia. Incluye comparación, imagen y ejercicios.
 
 ## Prueba tú · Actividad 2.1
 
@@ -241,7 +289,7 @@ La ciencia abierta tiene beneficios y también preocupaciones. Podemos afrontarl
 
 **Contrastado:** páginas NASA del estudio de los gemelos, catálogo del estándar NASA-STD-1006 y guía HHS. El portal DDTC exige contenido dinámico; la herramienta solo obtuvo la pantalla de carga. BIS fue localizado en búsqueda oficial, pero la apertura íntegra superó el límite de tamaño de la herramienta. Son enlaces de consulta, no una auditoría jurídica de los reglamentos.
 
-**No comprobado:** dataset OSD-530, enlaces omitidos en el texto original sobre scooping y políticas concretas de agencias. Los ejemplos y preguntas de esta página son didácticos.
+**No comprobado:** dataset OSD-530 y enlace original sobre scooping. Se localizaron fuentes de NASA y USGS sobre software; para el 20 % se consultaron OMB y GAO sin recuperar el enlace original del Departamento de Comercio. USGS se revisó desde su indexación por un bloqueo 403 de apertura directa. No se auditaron todas las políticas actuales ni su aplicabilidad a subvenciones concretas. Los ejemplos y preguntas son didácticos.
 
 Para un marco global en español, inglés y chino, consulta [Recursos](../../../RECURSOS.md). Revisa también el [glosario](../../../GLOSARIO.md).
 

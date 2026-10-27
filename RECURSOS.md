@@ -51,3 +51,18 @@ Las ilustraciones son diagramas originales, no imágenes oficiales de NASA. No h
 | [Catálogo NASA-STD-1006](https://standards.nasa.gov/standard/NASA/NASA-STD-1006) | Inglés · ficha y PDF | Corregir la referencia de la traducción y consultar el documento |
 | [Diagrama: compartir responsablemente](assets/leccion-02-compartir.svg) | Español · SVG original | Elegir entre apertura autorizada, acceso controlado y protección |
 
+
+## Anexo legal de la lección 2
+
+| Fuente | Idioma y formato | Utilidad |
+|---|---|---|
+| [Aspectos legales del código abierto](https://opensource.guide/es/legal/) | Español · guía | Base del [Anexo 2A](cursos/open-science-essentials/anexos/02-aspectos-legales-codigo-abierto.md) |
+| [Guía original inglesa](https://opensource.guide/legal/) | Inglés · guía | Contrastar términos y fuentes |
+| [Open Source Definition](https://opensource.org/osd) | Inglés · definición OSI | Diferenciar visibilidad y código abierto |
+| [Choose a License](https://choosealicense.com/) | Inglés y opciones de idioma · fichas | Examinar licencias concretas; no es una auditoría de compatibilidad |
+| [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es) | Español · resumen oficial | Licencia del material original de este repositorio |
+| [DCO 1.1](https://developercertificate.org/) | Inglés · texto | Origen de contribuciones |
+| [NASA Open Source Development](https://www.nasa.gov/nasa-open-source-development/) | Inglés · página histórica | Fuente de la frase; publicación 2015 y actualización declarada 2021 |
+| [OMB M-16-21](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m_16_21.pdf) | Inglés · memorando PDF de 2016 | Contexto del piloto del 20 % |
+| [GAO-19-457](https://www.gao.gov/products/gao-19-457) | Inglés · seguimiento oficial | Registra la expiración del piloto; no de toda política de apertura |
+| [USGS IM OSQI 2019-01](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) | Inglés · política | Dominio público, revisión y excepciones; texto indexado consultado, apertura bloqueada |

@@ -39,3 +39,10 @@ El estado real y cualquier cambio de requisitos se comprueban en tu cuenta de Ca
 5. Vuelve a Canvas para continuar la lección correspondiente.
 
 **Progreso:** disponer del material no demuestra que lo hayas aprendido. Las lecciones 3–5 se prepararán paso a paso; no hay enlaces falsos a páginas todavía inexistentes.
+
+## Anexos para profundizar
+
+- **Lección 2:** [Aspectos legales del código abierto](anexos/02-aspectos-legales-codigo-abierto.md), con licencias, contribuciones y práctica.
+- **Lección 2:** [Financiación pública y publicación de código](lecciones/02-preocupaciones-y-consideraciones.md#8-financiación-pública-y-publicación-de-código), con contexto de NASA, OMB y USGS.
+
+Son ampliaciones educativas; no agregan requisitos oficiales al curso.

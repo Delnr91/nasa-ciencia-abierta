@@ -30,6 +30,8 @@ La [oferta oficial de NASA](https://science.nasa.gov/open-science/training/) dis
 
 **Última incorporación:** [Lección 2 · Preocupaciones y consideraciones](cursos/open-science-essentials/lecciones/02-preocupaciones-y-consideraciones.md).
 
+**Profundización de la lección 2:** [Anexo legal: licencias y contribuciones](cursos/open-science-essentials/anexos/02-aspectos-legales-codigo-abierto.md) · [Políticas de publicación de código](cursos/open-science-essentials/lecciones/02-preocupaciones-y-consideraciones.md#8-financiación-pública-y-publicación-de-código).
+
 ## Así funciona cada lección
 
 **Comprender → Ver → Aplicar → Recordar → Revisar.**
