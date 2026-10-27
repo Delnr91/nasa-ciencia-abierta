@@ -15,4 +15,4 @@ No se conoce todavía el número de preguntas, el número de intentos, los tiemp
 - Identifica un beneficio y una limitación de cada práctica.
 - Consulta el criterio actual directamente en Canvas antes de iniciar el examen.
 
-Las preguntas de este repositorio son originales. No son una filtración ni una reconstrucción del examen oficial. Todavía faltan las lecciones 3–5: la práctica actual no cubre toda la evaluación.
+Las preguntas de este repositorio son originales. No son una filtración ni una reconstrucción del examen oficial. Todavía faltan las lecciones 4–5: la práctica actual no cubre toda la evaluación.

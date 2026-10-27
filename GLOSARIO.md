@@ -34,3 +34,19 @@ Las convenciones de reproducibilidad y replicabilidad siguen el [informe de las 
 | Maintenance | Mantenimiento | Compartir no implica soporte perpetuo |
 | Negative results | Resultados negativos | No apoyan un efecto esperado; no necesariamente prueban ausencia |
 | DOI | Identificador de objeto digital | Identifica un objeto; no certifica su calidad |
+
+## Palabras de la lección 3
+
+| Sigla o término | Significado | Para recordarlo |
+|---|---|---|
+| OSDMP | Open Science and Data Management Plan | Plan de ciencia abierta y gestión de datos; no solo datos públicos |
+| DMP | Data Management Plan | Plan de gestión de datos |
+| SMP | Software Management Plan | Plan de gestión del software; no es el financiador |
+| OSP | Open Science Plan | Plan de procesos, publicaciones y participación abierta |
+| SMD | Science Mission Directorate | Dirección científica de NASA; distinta de SMP |
+| FAIR | Findable, Accessible, Interoperable, Reusable | Encontrable, accesible, interoperable y reutilizable |
+| Metadatos | Metadata | Información que describe y contextualiza un producto |
+| Identificador persistente | Persistent identifier | Referencia estable a un producto o persona; no certifica su calidad |
+| Procedencia | Provenance | Origen y transformaciones de los datos |
+| Preregistro | Preregistration | Registro previo de un plan; no garantiza ausencia de errores |
+

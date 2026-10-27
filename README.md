@@ -23,12 +23,12 @@
 
 | Orden | Curso | Qué encontrarás aquí | Estado real del material |
 |---|---|---|---|
-| 1 | [Open Science Essentials](cursos/open-science-essentials/README.md) | Introducción opcional, cinco lecciones, siguientes pasos y evaluación final | Lecciones 1 y 2 disponibles; resto pendiente |
+| 1 | [Open Science Essentials](cursos/open-science-essentials/README.md) | Introducción opcional, cinco lecciones, siguientes pasos y evaluación final | Lecciones 1, 2 y 3 disponibles; resto pendiente |
 | 2 | [Open Science 101](cursos/open-science-101/README.md) | Ruta separada para la formación extensa | Estructura de Canvas pendiente de aportar |
 
 La [oferta oficial de NASA](https://science.nasa.gov/open-science/training/) distingue las dos formaciones. Preparar un apunte no significa haber completado una lección ni aprobado un examen.
 
-**Última incorporación:** [Lección 2 · Preocupaciones y consideraciones](cursos/open-science-essentials/lecciones/02-preocupaciones-y-consideraciones.md).
+**Última incorporación:** [Lección 3 · Planificación para la ciencia abierta](cursos/open-science-essentials/lecciones/03-planificacion-ciencia-abierta.md), con PDF oficial, portada, diagramas FAIR y plantilla de práctica.
 
 **Profundización de la lección 2:** [Anexo legal: licencias y contribuciones](cursos/open-science-essentials/anexos/02-aspectos-legales-codigo-abierto.md) · [Políticas de publicación de código](cursos/open-science-essentials/lecciones/02-preocupaciones-y-consideraciones.md#8-financiación-pública-y-publicación-de-código).
 
@@ -61,6 +61,6 @@ Empieza con **Leer la lección 1**. Lee «En dos minutos», mira su imagen y abr
 - Material original e ilustraciones bajo [CC BY 4.0](LICENSE.md); las fuentes externas conservan su licencia.
 - Redacción asistida por IA con revisión documental; revisión del estudiante pendiente.
 
-**Continuación:** las lecciones 1 y 2 ya tienen apuntes. La lección 3 se incorporará cuando compartas su contenido.
+**Continuación:** las lecciones 1, 2 y 3 ya tienen apuntes. La lección 4 se incorporará cuando compartas su contenido.
 
 [Procedencia y verificación](VERIFICACION.md) · [Reglas editoriales](AGENTS.md) · [Plantilla para próximas lecciones](plantillas/LECCION.md)

@@ -6,7 +6,7 @@
 
 Repositorio público independiente dedicado exclusivamente al estudio de Open Science Essentials y Open Science 101. Se tomó como referencia la navegación de software-aeroespacial y el formato de síntesis, anexos y recursos de seminariopdi; no se copiaron sus contenidos temáticos.
 
-Se publican las lecciones **1 y 2 de Essentials**, la estructura del curso aportada por el estudiante, orientación de estudio, glosario y recursos. La introducción aún no tiene síntesis de su texto original. Las lecciones 3–5, siguientes pasos y contenidos de Open Science 101 siguen pendientes.
+Se publican las lecciones **1, 2 y 3 de Essentials**, la estructura del curso aportada por el estudiante, orientación de estudio, glosario y recursos. La introducción aún no tiene síntesis de su texto original. Las lecciones 4–5, siguientes pasos y contenidos de Open Science 101 siguen pendientes.
 
 ## Fuentes y fechas
 
@@ -46,3 +46,15 @@ Se incorpora el Anexo 2A, síntesis de Open Source Guides con atribución CC BY 
 Se consultan la página histórica NASA (2015/2021), OMB M-16-21 (2016) y el seguimiento GAO que indica la expiración del piloto. El 20 % no se presenta como obligación universal actual ni como cláusula de cualquier subvención. No se recuperó el enlace original del Departamento de Comercio. USGS se revisó desde su texto indexado; la apertura directa devolvió 403.
 
 Se revisan OSI, MIT, Apache-2.0, GPL-3.0, Creative Commons, GitHub y DCO. Los enlaces GNU de AGPL consultados devolvieron timeout; no se añaden conclusiones específicas a partir de ellos. No se verifica compatibilidad jurídica de un proyecto real.
+
+## Lección 3 y PDF aportado · 27-10-2026
+
+Se añade síntesis española de Planning for Open Science, dos diagramas SVG originales, portada del PDF, plantilla educativa mini-OSDMP y mapa internacional de planes. La fecha y versión del PDF se mantienen explícitas; el documento no se presenta como política universal vigente.
+
+El PDF existente aportado por el usuario se leyó sin modificarlo y se comparó en memoria con la copia oficial: 4.056.260 bytes, SHA-256 `4c997e5c65b7fbfeb94bca07493770c3f1c7ea3fa23c7685fcbe34dbc9c8d251`. Coinciden byte a byte. Se incorpora una vista previa de la primera página completa; no se extrae la insignia para usarla como identidad propia. La licencia aclara las exclusiones correspondientes.
+
+Se consultaron ROSES OSDMP, GO FAIR, páginas oficiales de NSF/NIH/ARC/Wellcome/JST/NOAA/ERC y documentos ERS-TRANSIT. Se corrige la fecha de la política de publicación a 2018 según su PDF. FAIR no se interpreta como dominio público obligatorio. El recuento de participantes y publicaciones permanece atribuido al curso, sin verificación actual independiente.
+
+No se consultó como texto el bloque representado por el marcador «Pasted Content 8020 chars». La parte R de FAIR se complementó con GO FAIR. Los recursos de agencias son un mapa de consulta, no una auditoría completa de sus convocatorias.
+
+Trabajo sin nuevos archivos locales: se leyó el PDF ya existente, se renderizó una vista previa en memoria y se publican los materiales mediante GitHub. No hay MP3 propio ni prueba visual completa en distintos dispositivos.

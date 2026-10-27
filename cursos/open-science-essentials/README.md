@@ -13,7 +13,7 @@
 | Introducción opcional | Introducción a Open Science Essentials | [Orientación](introduccion.md); texto de introducción pendiente |
 | Lesson 1 – Why Open Science? | ¿Por qué hacer ciencia abierta? | [Leer apuntes y practicar](lecciones/01-por-que-ciencia-abierta.md) |
 | Lesson 2 – Concerns and Considerations When Practicing Open Science | Preocupaciones y consideraciones al practicar ciencia abierta | [Leer apuntes y practicar](lecciones/02-preocupaciones-y-consideraciones.md) |
-| Lesson 3 – Planning for Open Science | Planificar la ciencia abierta | Pendiente |
+| Lesson 3 – Planning for Open Science | Planificar la ciencia abierta | [Leer, ver y practicar](lecciones/03-planificacion-ciencia-abierta.md) |
 | Lesson 4 – Components of Open Science | Componentes de la ciencia abierta | Pendiente |
 | Lesson 5 – Tools for Open Science | Herramientas para la ciencia abierta | Pendiente |
 | Next Steps | Siguientes pasos | Pendiente |
@@ -38,7 +38,7 @@ El estado real y cualquier cambio de requisitos se comprueban en tu cuenta de Ca
 4. Completa una reflexión basada en un ejemplo genérico.
 5. Vuelve a Canvas para continuar la lección correspondiente.
 
-**Progreso:** disponer del material no demuestra que lo hayas aprendido. Las lecciones 3–5 se prepararán paso a paso; no hay enlaces falsos a páginas todavía inexistentes.
+**Progreso:** disponer del material no demuestra que lo hayas aprendido. Las lecciones 4–5 se prepararán paso a paso; no hay enlaces falsos a páginas todavía inexistentes.
 
 ## Anexos para profundizar
 
@@ -46,3 +46,5 @@ El estado real y cualquier cambio de requisitos se comprueban en tu cuenta de Ca
 - **Lección 2:** [Financiación pública y publicación de código](lecciones/02-preocupaciones-y-consideraciones.md#8-financiación-pública-y-publicación-de-código), con contexto de NASA, OMB y USGS.
 
 Son ampliaciones educativas; no agregan requisitos oficiales al curso.
+
+- **Lección 3:** [Mini-OSDMP](anexos/03-mini-osdmp.md) · [Mapa internacional de planes](anexos/03-planes-y-recursos-globales.md) · [PDF SMD y procedencia](../../assets/docs/README.md).

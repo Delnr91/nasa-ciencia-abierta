@@ -293,4 +293,4 @@ La ciencia abierta tiene beneficios y también preocupaciones. Podemos afrontarl
 
 Para un marco global en español, inglés y chino, consulta [Recursos](../../../RECURSOS.md). Revisa también el [glosario](../../../GLOSARIO.md).
 
-[← Lección 1](01-por-que-ciencia-abierta.md) · [Volver al curso](../README.md) · **Lección 3: pendiente de contenido.**
+[← Lección 1](01-por-que-ciencia-abierta.md) · [Volver al curso](../README.md) · [Lección 3: planificación →](03-planificacion-ciencia-abierta.md)

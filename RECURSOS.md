@@ -66,3 +66,14 @@ Las ilustraciones son diagramas originales, no imágenes oficiales de NASA. No h
 | [OMB M-16-21](https://www.whitehouse.gov/wp-content/uploads/legacy_drupal_files/omb/memoranda/2016/m_16_21.pdf) | Inglés · memorando PDF de 2016 | Contexto del piloto del 20 % |
 | [GAO-19-457](https://www.gao.gov/products/gao-19-457) | Inglés · seguimiento oficial | Registra la expiración del piloto; no de toda política de apertura |
 | [USGS IM OSQI 2019-01](https://www.usgs.gov/survey-manual/im-osqi-2019-01-review-and-approval-scientific-software-release) | Inglés · política | Dominio público, revisión y excepciones; texto indexado consultado, apertura bloqueada |
+
+## Lección 3 · Planificación y recursos multimodales
+
+- [Lección en español](cursos/open-science-essentials/lecciones/03-planificacion-ciencia-abierta.md): resumen, imágenes, práctica y guion textual de voz.
+- [PDF SMD v2.2 y procedencia](assets/docs/README.md): documento original, portada y páginas recomendadas; inglés.
+- [Mini-plan OSDMP](cursos/open-science-essentials/anexos/03-mini-osdmp.md): plantilla didáctica editable en español.
+- [Mapa internacional](cursos/open-science-essentials/anexos/03-planes-y-recursos-globales.md): NASA, NSF, NIH, NOAA, ARC, UE/ERC, Wellcome y JST.
+- [GO FAIR](https://www.gofair.foundation/fair-principles): fuente para los principios; inglés.
+- [Flujo visual](assets/leccion-03-flujo.svg) y [mapa FAIR](assets/leccion-03-fair.svg): ilustraciones originales en español, con alternativa textual en la lección.
+
+No se ha generado una grabación de audio ni una traducción oficial del PDF. El guion puede usarse con una función de lectura del dispositivo cuando exista.
