@@ -50,3 +50,21 @@ Las convenciones de reproducibilidad y replicabilidad siguen el [informe de las 
 | Procedencia | Provenance | Origen y transformaciones de los datos |
 | Preregistro | Preregistration | Registro previo de un plan; no garantiza ausencia de errores |
 
+
+## Palabras de la lección 4
+
+| Término | Significado | Distinción importante |
+|---|---|---|
+| Dataset | Conjunto de datos | No es lo mismo que el artículo que lo describe |
+| Primary / secondary data | Datos primarios / secundarios | Dependen de quién genera o reutiliza los datos |
+| Published data | Datos publicados | Pueden ser también primarios o secundarios |
+| Descriptive metadata | Metadatos descriptivos | Contenido, variables y significado |
+| Structural metadata | Metadatos estructurales | Organización de archivos y dimensiones |
+| Administrative metadata | Metadatos administrativos | Gestión, software, versiones y derechos |
+| Version DOI / concept DOI | DOI de versión / DOI conceptual | Artefacto concreto frente al conjunto de versiones |
+| Open format | Formato abierto | La especificación no reemplaza una licencia de datos |
+| APC | Article Processing Charge | Cargo de publicación; no está presente en todos los modelos |
+| Green / gold / diamond OA | Acceso abierto verde / dorado / diamante | Rutas que no siempre son categorías excluyentes |
+| Notebook | Cuaderno computacional | Reúne texto, código y salidas; no garantiza reproducibilidad por sí solo |
+| Synthetic data | Datos sintéticos | Creados para el ejemplo; no son observaciones reales |
+

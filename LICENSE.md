@@ -12,3 +12,7 @@ Puedes compartir y adaptar el material, con atribución, enlace a la licencia e 
 Los artículos, materiales de los cursos, documentos externos, marcas, logos y recursos enlazados mantienen sus derechos y licencias originales. La licencia del repositorio no los relicencia. La portada del PDF oficial adjunto conserva la insignia dentro del documento original: no se usa como marca propia ni implica respaldo de NASA u otra institución. El PDF SMD y su vista previa quedan fuera de la licencia del material original; consulta su [procedencia](assets/docs/README.md).
 
 Los apuntes son síntesis originales basadas en material compartido por el estudiante y fuentes identificadas. La redacción contó con asistencia de IA; las revisiones y contribuciones se conservan en el historial de GitHub.
+
+## Código del ejemplo educativo de la lección 4
+
+El archivo `ejemplos/leccion-04/analisis.py` y el código original de las celdas de su notebook se distribuyen bajo [MIT](ejemplos/leccion-04/LICENSE). La narración, los datos sintéticos originales y las ilustraciones siguen bajo CC BY 4.0. Esta aclaración no cambia las condiciones de materiales externos o código ajeno.

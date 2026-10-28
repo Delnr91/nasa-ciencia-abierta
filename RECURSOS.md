@@ -77,3 +77,12 @@ Las ilustraciones son diagramas originales, no imágenes oficiales de NASA. No h
 - [Flujo visual](assets/leccion-03-flujo.svg) y [mapa FAIR](assets/leccion-03-fair.svg): ilustraciones originales en español, con alternativa textual en la lección.
 
 No se ha generado una grabación de audio ni una traducción oficial del PDF. El guion puede usarse con una función de lectura del dispositivo cuando exista.
+
+## Lección 4 · Componentes y práctica reproducible
+
+- [Lección en español](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md): datos, metadatos, código, resultados y publicación.
+- [Recursos por idioma y estado de verificación](cursos/open-science-essentials/anexos/04-recursos-y-fuentes.md): español, inglés y chino simplificado.
+- [Paquete sintético](ejemplos/leccion-04/README.md): CSV, diccionario, código, notebook y resultados; puede leerse sin ejecutar programas.
+- Diagramas originales: [componentes](assets/leccion-04-componentes.svg), [metadatos](assets/leccion-04-metadatos.svg) y [acceso abierto](assets/leccion-04-acceso-abierto.svg).
+
+La ejecución del ejemplo usa datos inventados y Python estándar. No se ha ejecutado RAPID, creado una sesión Binder ni generado audio. Las salidas del notebook se comprueban antes de publicar.

@@ -185,6 +185,18 @@ Por eso sustituimos «todas las agencias exigen lo mismo» por una pregunta veri
 
 El [anexo internacional](../anexos/03-planes-y-recursos-globales.md) reúne NASA, NSF, NIH, NOAA, ARC, Unión Europea, Wellcome y JST. Es un mapa de consulta; no declara que los ocho utilicen el mismo formato.
 
+## Antes de compartir: posibilidad, autoridad y beneficio
+
+Cierre del curso, completado con el fragmento aportado el 28-10-2026:
+
+- **¿Puede compartirse?** Revisa viabilidad, derechos y restricciones.
+- **¿Quién ayudó a obtener los datos?** Reconoce aportes y contexto.
+- **¿Se beneficiarán esas personas de la publicación?** No supongas que apertura equivale a reparto justo de beneficios.
+- **¿Quién tiene responsabilidad y autoridad sobre los datos?** Pueden ser funciones distintas.
+- **¿Debe compartirse?** Considera consecuencias éticas además de la posibilidad técnica.
+
+La formación extensa Open Science 101 desarrolla estos planes con mayor profundidad. No se presenta este cierre como una nueva lección del otro curso.
+
 ## Prueba tú · Actividad 3.1
 
 Piensa en un proyecto anterior que puedas describir públicamente, o utiliza un análisis ficticio de temperaturas.
@@ -280,4 +292,4 @@ Se consultaron FAIR/GO FAIR, ROSES OSDMP, el PDF oficial v2.2 y los documentos d
 
 Las traducciones se corrigen cuando confunden OSDMP, SMD/SMP, reproducibilidad y FAIR. La información normativa se presenta como orientación de consulta, sin afirmar cumplimiento de una propuesta real. El [anexo global](../anexos/03-planes-y-recursos-globales.md) registra los recursos y límites.
 
-[← Lección 2](02-preocupaciones-y-consideraciones.md) · [📘 Curso](../README.md) · **Lección 4: pendiente de contenido.**
+[← Lección 2](02-preocupaciones-y-consideraciones.md) · [📘 Curso](../README.md) · [Lección 4: componentes →](04-componentes-ciencia-abierta.md)

@@ -6,7 +6,7 @@
 
 Repositorio público independiente dedicado exclusivamente al estudio de Open Science Essentials y Open Science 101. Se tomó como referencia la navegación de software-aeroespacial y el formato de síntesis, anexos y recursos de seminariopdi; no se copiaron sus contenidos temáticos.
 
-Se publican las lecciones **1, 2 y 3 de Essentials**, la estructura del curso aportada por el estudiante, orientación de estudio, glosario y recursos. La introducción aún no tiene síntesis de su texto original. Las lecciones 4–5, siguientes pasos y contenidos de Open Science 101 siguen pendientes.
+Se publican las lecciones **1–4 de Essentials**, la estructura del curso aportada por el estudiante, orientación de estudio, glosario y recursos. La introducción aún no tiene síntesis de su texto original. La lección 5, siguientes pasos y contenidos de Open Science 101 siguen pendientes.
 
 ## Fuentes y fechas
 
@@ -58,3 +58,17 @@ Se consultaron ROSES OSDMP, GO FAIR, páginas oficiales de NSF/NIH/ARC/Wellcome/
 No se consultó como texto el bloque representado por el marcador «Pasted Content 8020 chars». La parte R de FAIR se complementó con GO FAIR. Los recursos de agencias son un mapa de consulta, no una auditoría completa de sus convocatorias.
 
 Trabajo sin nuevos archivos locales: se leyó el PDF ya existente, se renderizó una vista previa en memoria y se publican los materiales mediante GitHub. No hay MP3 propio ni prueba visual completa en distintos dispositivos.
+
+## Lección 4 · 28-10-2026
+
+Se añade síntesis española de Components of Open Science, tres SVG originales con alternativa textual, un anexo de recursos y un paquete educativo sintético. También se completa el cierre de la lección 3 con las preguntas sobre autoridad, contribuciones y beneficio de compartir. No se duplica la sección internacional ya existente.
+
+Zenodo 3688691 se consultó por su API: es un Dataset con DOI de versión y DOI conceptual, relacionado con el artículo y software citados. Se revisó el README de RAPID; no se descargó ni ejecutó ese modelo. El sitio editorial del artículo devolvió 403. WMO agotó el tiempo de apertura y esa limitación se conserva.
+
+Las correcciones incluyen: 500 mph equivalen a aproximadamente 805 km/h; los metadatos también pueden ser sensibles; código abierto admite distribución comercial; la vía dorada no implica universalmente APC; reproducibilidad requiere un criterio de consistencia, no aceptar cualquier diferencia. La referencia Nature aportada sobre Ébola tiene contexto visible de República Democrática del Congo y no se utiliza como validación de toda la narración de África Occidental.
+
+El programa y las celdas del cuaderno se ejecutan en memoria con datos sintéticos, sin instalar paquetes, acceder a red o escribir archivos. Se compara su salida guardada y se comprueba que la tabla incorporada coincide con el CSV. La licencia MIT se limita al código original del ejemplo; la documentación y los datos originales siguen CC BY 4.0.
+
+La API Markdown de GitHub permite comprobar el render de lección, anexos y README; no equivale a una prueba visual en todos los dispositivos. No hay MP3 ni sesión de notebook hospedada/provisionada. Las preguntas de repaso son originales y el progreso del estudiante sigue sin marcarse.
+
+Resultado de la comprobación de esta entrega: 183 enlaces internos sin incidencias; programa y todas las celdas de código ejecutados con salidas coincidentes; CSV incorporado idéntico al archivo; cuatro entradas inválidas rechazadas; tres nuevos SVG válidos; render GFM de inicio, lección 4, anexo 4A y README del ejemplo comprobado mediante la API de GitHub.

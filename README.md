@@ -17,18 +17,19 @@
 | Practicar antes del examen | [Preguntas con respuestas desplegables](cursos/open-science-essentials/lecciones/01-por-que-ciencia-abierta.md#comprueba-lo-que-entendiste) |
 | Encontrar palabras en inglés | [Glosario español–inglés](GLOSARIO.md) |
 | Aprender con texto, imágenes o lectura en voz alta | [Guía de estudio accesible](COMO-ESTUDIAR.md) |
+| Ver datos, código y resultados juntos | [Ejemplo sintético y cuaderno](ejemplos/leccion-04/README.md) |
 | Corregir algo o proponer un recurso | [Cómo contribuir](CONTRIBUTING.md) |
 
 ## Dos cursos, dos rutas
 
 | Orden | Curso | Qué encontrarás aquí | Estado real del material |
 |---|---|---|---|
-| 1 | [Open Science Essentials](cursos/open-science-essentials/README.md) | Introducción opcional, cinco lecciones, siguientes pasos y evaluación final | Lecciones 1, 2 y 3 disponibles; resto pendiente |
+| 1 | [Open Science Essentials](cursos/open-science-essentials/README.md) | Introducción opcional, cinco lecciones, siguientes pasos y evaluación final | Lecciones 1–4 disponibles; lección 5 pendiente |
 | 2 | [Open Science 101](cursos/open-science-101/README.md) | Ruta separada para la formación extensa | Estructura de Canvas pendiente de aportar |
 
 La [oferta oficial de NASA](https://science.nasa.gov/open-science/training/) distingue las dos formaciones. Preparar un apunte no significa haber completado una lección ni aprobado un examen.
 
-**Última incorporación:** [Lección 3 · Planificación para la ciencia abierta](cursos/open-science-essentials/lecciones/03-planificacion-ciencia-abierta.md), con PDF oficial, portada, diagramas FAIR y plantilla de práctica.
+**Última incorporación:** [Lección 4 · Componentes de la ciencia abierta](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md), con tres diagramas y un [paquete sintético reproducible](ejemplos/leccion-04/README.md): CSV, diccionario, código, cuaderno y resultados.
 
 **Profundización de la lección 2:** [Anexo legal: licencias y contribuciones](cursos/open-science-essentials/anexos/02-aspectos-legales-codigo-abierto.md) · [Políticas de publicación de código](cursos/open-science-essentials/lecciones/02-preocupaciones-y-consideraciones.md#8-financiación-pública-y-publicación-de-código).
 
@@ -58,9 +59,9 @@ Empieza con **Leer la lección 1**. Lee «En dos minutos», mira su imagen y abr
 - Recursos internacionales seleccionados por utilidad: español, inglés y chino.
 - Datos de ejemplo genéricos o sintéticos; no se incorpora información de proyectos privados.
 - Sin respuestas copiadas de evaluaciones oficiales ni certificados inventados.
-- Material original e ilustraciones bajo [CC BY 4.0](LICENSE.md); las fuentes externas conservan su licencia.
+- Texto, datos sintéticos e ilustraciones originales bajo [CC BY 4.0](LICENSE.md); código del ejemplo 4 bajo [MIT](ejemplos/leccion-04/LICENSE). Las fuentes externas conservan su licencia.
 - Redacción asistida por IA con revisión documental; revisión del estudiante pendiente.
 
-**Continuación:** las lecciones 1, 2 y 3 ya tienen apuntes. La lección 4 se incorporará cuando compartas su contenido.
+**Continuación:** las lecciones 1–4 ya tienen apuntes. La lección 5 se incorporará cuando compartas su contenido.
 
 [Procedencia y verificación](VERIFICACION.md) · [Reglas editoriales](AGENTS.md) · [Plantilla para próximas lecciones](plantillas/LECCION.md)
