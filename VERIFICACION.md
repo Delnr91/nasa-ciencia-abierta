@@ -72,3 +72,7 @@ El programa y las celdas del cuaderno se ejecutan en memoria con datos sintétic
 La API Markdown de GitHub permite comprobar el render de lección, anexos y README; no equivale a una prueba visual en todos los dispositivos. No hay MP3 ni sesión de notebook hospedada/provisionada. Las preguntas de repaso son originales y el progreso del estudiante sigue sin marcarse.
 
 Resultado de la comprobación de esta entrega: 183 enlaces internos sin incidencias; programa y todas las celdas de código ejecutados con salidas coincidentes; CSV incorporado idéntico al archivo; cuatro entradas inválidas rechazadas; tres nuevos SVG válidos; render GFM de inicio, lección 4, anexo 4A y README del ejemplo comprobado mediante la API de GitHub.
+
+## Acceso rápido desde GitHub e iPad · 28-10-2026
+
+Se confirma la publicación de la lección 4 en main y se coloca su acceso al comienzo del README, antes de la portada. Se añade una ruta de aplicación enlazada a los materiales existentes y se actualiza el índice de Essentials. La lección 5 permanece pendiente de recibir el contenido de Canvas: no se inventa ni se marca completada. Se comprueban rutas y render GFM; no se declara una prueba física en iPad.

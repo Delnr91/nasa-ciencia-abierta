@@ -2,6 +2,8 @@
 
 [🏠 Inicio](../../README.md) · [▶ Lección 1](lecciones/01-por-que-ciencia-abierta.md) · [🌍 Recursos](../../RECURSOS.md)
 
+**Retomar ahora:** [Lección 4 · Componentes de la ciencia abierta](lecciones/04-componentes-ciencia-abierta.md) · [Aplicar con datos sintéticos](../../ejemplos/leccion-04/README.md).
+
 **Ciencia abierta: conceptos esenciales.** Esta ruta conserva el orden que el estudiante compartió desde Canvas el 27 de octubre de 2026.
 
 > En Canvas aparece un módulo principal llamado **Open Science Essentials**. Dentro están las páginas de las cinco lecciones, «Next Steps» y el examen. Aquí cada lección tendrá su propia página; no se presenta como un curso diferente.
@@ -15,7 +17,7 @@
 | Lesson 2 – Concerns and Considerations When Practicing Open Science | Preocupaciones y consideraciones al practicar ciencia abierta | [Leer apuntes y practicar](lecciones/02-preocupaciones-y-consideraciones.md) |
 | Lesson 3 – Planning for Open Science | Planificar la ciencia abierta | [Leer, ver y practicar](lecciones/03-planificacion-ciencia-abierta.md) |
 | Lesson 4 – Components of Open Science | Componentes de la ciencia abierta | [Leer, ver y experimentar](lecciones/04-componentes-ciencia-abierta.md) |
-| Lesson 5 – Tools for Open Science | Herramientas para la ciencia abierta | Pendiente |
+| Lesson 5 – Tools for Open Science | Herramientas para la ciencia abierta | Pendiente de recibir el contenido de Canvas |
 | Next Steps | Siguientes pasos | Pendiente |
 | Open Science Essentials Assessment | Evaluación final | [Preparación y requisitos](evaluacion.md) |
 

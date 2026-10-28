@@ -1,5 +1,13 @@
 # Ciencia abierta · NASA en español
 
+## Retoma tu estudio
+
+**[📖 Abrir lección 4 · Componentes de la ciencia abierta](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md)**
+
+[🧪 Aplicar con el ejemplo sintético](ejemplos/leccion-04/README.md) · [📘 Índice del curso](cursos/open-science-essentials/README.md) · [🏷️ Glosario](GLOSARIO.md)
+
+**Rama de estudio: `main`.** Lecciones 1–4 publicadas. Lección 5: pendiente de recibir el texto de Canvas; todavía no hay apuntes de esa lección.
+
 ![Dos rutas de aprendizaje: Essentials primero y Open Science 101 después](assets/portada.svg)
 
 **Aprende a compartir, revisar y reutilizar conocimiento científico.** Apuntes educativos independientes, en español claro, para estudiar desde GitHub en computador, teléfono o iPad.
@@ -7,6 +15,20 @@
 [📘 Empezar el primer curso](cursos/open-science-essentials/README.md) · [▶ Leer la lección 1](cursos/open-science-essentials/lecciones/01-por-que-ciencia-abierta.md) · [🌍 Recursos gratuitos](RECURSOS.md) · [🧭 Cómo usar esto](COMO-ESTUDIAR.md)
 
 > Este repositorio acompaña tu estudio. No es una publicación oficial de NASA ni reemplaza Canvas o sus evaluaciones. No necesitas instalar programas, pagar ni descargar el repositorio para leerlo.
+
+## Estudia y aplícalo
+
+Una ruta breve para convertir los apuntes en decisiones y productos. Los ejercicios siguen pendientes de tu revisión; no representan trabajo ya realizado ni aprobación de Canvas.
+
+| Paso | Lo que estudias | Una aplicación concreta |
+|---|---|---|
+| 1 · Comprender | [Por qué ciencia abierta](cursos/open-science-essentials/lecciones/01-por-que-ciencia-abierta.md) | Escribe un beneficio y un límite para un ejemplo genérico |
+| 2 · Decidir | [Preocupaciones y consideraciones](cursos/open-science-essentials/lecciones/02-preocupaciones-y-consideraciones.md) | Distingue qué puedes compartir y qué debes proteger |
+| 3 · Planificar | [Planificación](cursos/open-science-essentials/lecciones/03-planificacion-ciencia-abierta.md) | Completa un [mini-OSDMP](cursos/open-science-essentials/anexos/03-mini-osdmp.md) con un responsable y un plazo |
+| 4 · Preparar una entrega | [Componentes](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md) | Revisa [datos, diccionario, código y resultados](ejemplos/leccion-04/README.md) del paquete sintético |
+| 5 · Elegir herramientas | Tools for Open Science | Material del curso pendiente; se incorporará con el mismo formato |
+
+**Desde iPad:** abre el repositorio, entra en `main` si estás viendo otra rama y usa el enlace **Abrir lección 4** al comienzo de este README. También puedes abrir directamente [la página de la lección](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md). El notebook permite consultar salidas guardadas; GitHub no ejecuta sus celdas al leerlo.
 
 ## Elige qué necesitas ahora
 
