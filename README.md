@@ -2,11 +2,13 @@
 
 ## Retoma tu estudio
 
-**[📖 Abrir lección 4 · Componentes de la ciencia abierta](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md)**
+**[📖 Abrir lección 5 · Herramientas para la ciencia abierta](cursos/open-science-essentials/lecciones/05-herramientas-ciencia-abierta.md)**
 
-[🧪 Aplicar con el ejemplo sintético](ejemplos/leccion-04/README.md) · [📘 Índice del curso](cursos/open-science-essentials/README.md) · [🏷️ Glosario](GLOSARIO.md)
+[📖 Lección 4](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md) · [🧪 Aplicar con el ejemplo sintético](ejemplos/leccion-04/README.md) · [📘 Índice del curso](cursos/open-science-essentials/README.md) · [🏷️ Glosario](GLOSARIO.md)
 
-**Rama de estudio: `main`.** Lecciones 1–4 publicadas. Lección 5: pendiente de recibir el texto de Canvas; todavía no hay apuntes de esa lección.
+**Rama de estudio: `main`.** Las cinco lecciones y «Próximos pasos» están disponibles. Lectura, práctica y evaluación del estudiante no se marcan automáticamente.
+
+**[📚 Biblioteca de documentos en español](modulos/README.md)** · [Ética de IA/ML · AGU, 89 páginas de fuente](modulos/etica-ia-agu/README.md) · [Guía NASA SMD, 25 páginas de fuente](modulos/guia-nasa-smd/README.md) · [📝 Cuaderno práctico](modulos/cuaderno-aplicacion.md)
 
 ![Dos rutas de aprendizaje: Essentials primero y Open Science 101 después](assets/portada.svg)
 
@@ -26,9 +28,9 @@ Una ruta breve para convertir los apuntes en decisiones y productos. Los ejercic
 | 2 · Decidir | [Preocupaciones y consideraciones](cursos/open-science-essentials/lecciones/02-preocupaciones-y-consideraciones.md) | Distingue qué puedes compartir y qué debes proteger |
 | 3 · Planificar | [Planificación](cursos/open-science-essentials/lecciones/03-planificacion-ciencia-abierta.md) | Completa un [mini-OSDMP](cursos/open-science-essentials/anexos/03-mini-osdmp.md) con un responsable y un plazo |
 | 4 · Preparar una entrega | [Componentes](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md) | Revisa [datos, diccionario, código y resultados](ejemplos/leccion-04/README.md) del paquete sintético |
-| 5 · Elegir herramientas | Tools for Open Science | Material del curso pendiente; se incorporará con el mismo formato |
+| 5 · Elegir herramientas | [Herramientas para la ciencia abierta](cursos/open-science-essentials/lecciones/05-herramientas-ciencia-abierta.md) | Relaciona historial, permisos, identificadores y archivo en el [cuaderno práctico](modulos/cuaderno-aplicacion.md) |
 
-**Desde iPad:** abre el repositorio, entra en `main` si estás viendo otra rama y usa el enlace **Abrir lección 4** al comienzo de este README. También puedes abrir directamente [la página de la lección](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md). El notebook permite consultar salidas guardadas; GitHub no ejecuta sus celdas al leerlo.
+**Desde iPad:** abre el repositorio, entra en `main` si estás viendo otra rama y usa el enlace **Abrir lección 5** al comienzo de este README. También puedes abrir directamente [la lección 4](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md). El notebook permite consultar salidas guardadas; GitHub no ejecuta sus celdas al leerlo.
 
 ## Elige qué necesitas ahora
 
@@ -46,12 +48,12 @@ Una ruta breve para convertir los apuntes en decisiones y productos. Los ejercic
 
 | Orden | Curso | Qué encontrarás aquí | Estado real del material |
 |---|---|---|---|
-| 1 | [Open Science Essentials](cursos/open-science-essentials/README.md) | Introducción opcional, cinco lecciones, siguientes pasos y evaluación final | Lecciones 1–4 disponibles; lección 5 pendiente |
+| 1 | [Open Science Essentials](cursos/open-science-essentials/README.md) | Introducción opcional, cinco lecciones, siguientes pasos y evaluación final | Cinco lecciones y siguientes pasos disponibles; introducción opcional por completar |
 | 2 | [Open Science 101](cursos/open-science-101/README.md) | Ruta separada para la formación extensa | Estructura de Canvas pendiente de aportar |
 
 La [oferta oficial de NASA](https://science.nasa.gov/open-science/training/) distingue las dos formaciones. Preparar un apunte no significa haber completado una lección ni aprobado un examen.
 
-**Última incorporación:** [Lección 4 · Componentes de la ciencia abierta](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md), con tres diagramas y un [paquete sintético reproducible](ejemplos/leccion-04/README.md): CSV, diccionario, código, cuaderno y resultados.
+**Última incorporación · 02-11-2026:** [Lección 5](cursos/open-science-essentials/lecciones/05-herramientas-ciencia-abierta.md), [Próximos pasos](cursos/open-science-essentials/proximos-pasos.md) y dos [rutas de documentos en español](modulos/README.md), desarrolladas por capítulos con prácticas, fuentes y diagramas. Conservamos el [paquete sintético reproducible de la lección 4](ejemplos/leccion-04/README.md).
 
 **Profundización de la lección 2:** [Anexo legal: licencias y contribuciones](cursos/open-science-essentials/anexos/02-aspectos-legales-codigo-abierto.md) · [Políticas de publicación de código](cursos/open-science-essentials/lecciones/02-preocupaciones-y-consideraciones.md#8-financiación-pública-y-publicación-de-código).
 
@@ -84,6 +86,6 @@ Empieza con **Leer la lección 1**. Lee «En dos minutos», mira su imagen y abr
 - Texto, datos sintéticos e ilustraciones originales bajo [CC BY 4.0](LICENSE.md); código del ejemplo 4 bajo [MIT](ejemplos/leccion-04/LICENSE). Las fuentes externas conservan su licencia.
 - Redacción asistida por IA con revisión documental; revisión del estudiante pendiente.
 
-**Continuación:** las lecciones 1–4 ya tienen apuntes. La lección 5 se incorporará cuando compartas su contenido.
+**Continuación:** estudia las cinco lecciones, revisa [Próximos pasos](cursos/open-science-essentials/proximos-pasos.md) y prepara la evaluación en Canvas. Los [módulos de documentos](modulos/README.md) son complementarios; Open Science 101 sigue siendo una ruta distinta.
 
 [Procedencia y verificación](VERIFICACION.md) · [Reglas editoriales](AGENTS.md) · [Plantilla para próximas lecciones](plantillas/LECCION.md)

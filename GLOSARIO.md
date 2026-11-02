@@ -68,3 +68,24 @@ Las convenciones de reproducibilidad y replicabilidad siguen el [informe de las 
 | Notebook | Cuaderno computacional | Reúne texto, código y salidas; no garantiza reproducibilidad por sí solo |
 | Synthetic data | Datos sintéticos | Creados para el ejemplo; no son observaciones reales |
 
+
+
+## Palabras de la lección 5 y de los módulos documentales
+
+| Término | Español y función | Límite importante |
+|---|---|---|
+| Preprint | Manuscrito compartido habitualmente antes de revisión | No equivale a manuscrito aceptado o artículo editorial |
+| Accepted author manuscript | Manuscrito aceptado tras revisión | No incluye toda la edición de la revista |
+| Version of record | Versión editorial definitiva | Puede tener correcciones posteriores |
+| Commit / branch | Estado del historial / rama de trabajo | No son DOI ni certificación de calidad |
+| Release / archive | Entrega / conservación de una versión | Preservar no demuestra que esté validada |
+| DOI / ORCID iD | Producto / persona | Identificación no significa validación |
+| Registered Report | Diseño evaluado antes de resultados | Aceptación condicionada; distinto de simple registro |
+| Accountability | Rendición de cuentas | Requiere roles y respuesta a problemas |
+| Model card | Ficha de modelo | Documentación, no certificado |
+| CARE | Beneficio colectivo, autoridad para controlar, responsabilidad y ética | Contexto de derechos y gobernanza de datos indígenas |
+| FAIRness | Grado de correspondencia con criterios FAIR | No es imparcialidad ni verdad de resultados |
+| AI / ML / generative AI | IA / aprendizaje automático / IA generativa | Técnicas y tareas distintas |
+| SI en la fuente NASA | Super Intelligence | Se conserva como denominación; no prueba capacidades generales |
+
+[Lección 5](cursos/open-science-essentials/lecciones/05-herramientas-ciencia-abierta.md) · [Glosario aplicado AGU](modulos/etica-ia-agu/08-aplicacion-y-glosario.md).

@@ -16,3 +16,10 @@ Los apuntes son síntesis originales basadas en material compartido por el estud
 ## Código del ejemplo educativo de la lección 4
 
 El archivo `ejemplos/leccion-04/analisis.py` y el código original de las celdas de su notebook se distribuyen bajo [MIT](ejemplos/leccion-04/LICENSE). La narración, los datos sintéticos originales y las ilustraciones siguen bajo CC BY 4.0. Esta aclaración no cambia las condiciones de materiales externos o código ajeno.
+
+
+## Informe AGU y adaptación educativa
+
+El PDF [AGU, ética de IA/ML, v1 de 2023](assets/docs/AGU-Etica-IA-ML-2023-v1.pdf) es obra externa de sus autores y declara CC BY 4.0 en su ficha. Se conserva íntegro con sus avisos; no se atribuye su autoría a este repositorio. Sus materiales de terceros conservan las condiciones correspondientes.
+
+La [adaptación educativa en español](modulos/etica-ia-agu/README.md) reconoce esa fuente, enlaza su DOI y declara cambios de idioma, organización, ejemplos y ejercicios. Se ofrece bajo CC BY 4.0. Las explicaciones propias sobre la guía NASA también siguen la licencia del material original del repositorio; el PDF NASA conserva sus condiciones y exclusiones ya indicadas.

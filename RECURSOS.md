@@ -86,3 +86,15 @@ No se ha generado una grabación de audio ni una traducción oficial del PDF. El
 - Diagramas originales: [componentes](assets/leccion-04-componentes.svg), [metadatos](assets/leccion-04-metadatos.svg) y [acceso abierto](assets/leccion-04-acceso-abierto.svg).
 
 La ejecución del ejemplo usa datos inventados y Python estándar. No se ha ejecutado RAPID, creado una sesión Binder ni generado audio. Las salidas del notebook se comprueban antes de publicar.
+
+
+## Lección 5 y biblioteca de estudio en español
+
+- [Herramientas para la ciencia abierta](cursos/open-science-essentials/lecciones/05-herramientas-ciencia-abierta.md): preprints, repositorios, versiones, identificadores, licencias, prerregistro, FAIR e IA.
+- [Fuentes y precisiones](cursos/open-science-essentials/anexos/05-recursos-y-precisiones.md): recursos oficiales, idioma y límites de comprobación.
+- [Informe AGU desarrollado en español](modulos/etica-ia-agu/README.md): nueve capítulos a partir del PDF de 89 páginas; seis módulos originales conservados como capítulos.
+- [Guía NASA SMD desarrollada en español](modulos/guia-nasa-smd/README.md): cinco capítulos para las 25 páginas de la edición 2.2.
+- [Cuaderno de aplicación](modulos/cuaderno-aplicacion.md): fichas editables y criterios para ejemplos sintéticos.
+- [Próximos pasos](cursos/open-science-essentials/proximos-pasos.md): continuidad gradual, reflexión y recursos comunitarios.
+
+Los dos PDF originales permanecen en inglés. El desarrollo en Markdown traduce y explica conceptos importantes con prácticas; no es una traducción literal completa ni una edición oficial. Los diagramas son originales y tienen equivalentes escritos. No se generaron grabaciones ni se activaron servicios externos.

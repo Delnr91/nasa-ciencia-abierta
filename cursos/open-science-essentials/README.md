@@ -2,7 +2,7 @@
 
 [🏠 Inicio](../../README.md) · [▶ Lección 1](lecciones/01-por-que-ciencia-abierta.md) · [🌍 Recursos](../../RECURSOS.md)
 
-**Retomar ahora:** [Lección 4 · Componentes de la ciencia abierta](lecciones/04-componentes-ciencia-abierta.md) · [Aplicar con datos sintéticos](../../ejemplos/leccion-04/README.md).
+**Retomar ahora:** [Lección 5 · Herramientas para la ciencia abierta](lecciones/05-herramientas-ciencia-abierta.md) · [Lección 4](lecciones/04-componentes-ciencia-abierta.md) · [Cuaderno de aplicación](../../modulos/cuaderno-aplicacion.md).
 
 **Ciencia abierta: conceptos esenciales.** Esta ruta conserva el orden que el estudiante compartió desde Canvas el 27 de octubre de 2026.
 
@@ -17,8 +17,8 @@
 | Lesson 2 – Concerns and Considerations When Practicing Open Science | Preocupaciones y consideraciones al practicar ciencia abierta | [Leer apuntes y practicar](lecciones/02-preocupaciones-y-consideraciones.md) |
 | Lesson 3 – Planning for Open Science | Planificar la ciencia abierta | [Leer, ver y practicar](lecciones/03-planificacion-ciencia-abierta.md) |
 | Lesson 4 – Components of Open Science | Componentes de la ciencia abierta | [Leer, ver y experimentar](lecciones/04-componentes-ciencia-abierta.md) |
-| Lesson 5 – Tools for Open Science | Herramientas para la ciencia abierta | Pendiente de recibir el contenido de Canvas |
-| Next Steps | Siguientes pasos | Pendiente |
+| Lesson 5 – Tools for Open Science | Herramientas para la ciencia abierta | [Leer, ver y aplicar](lecciones/05-herramientas-ciencia-abierta.md) |
+| Next Steps | Siguientes pasos | [Continuar y reflexionar](proximos-pasos.md) |
 | Open Science Essentials Assessment | Evaluación final | [Preparación y requisitos](evaluacion.md) |
 
 Los nombres españoles son traducciones orientativas. Los cinco títulos ingleses y las condiciones de finalización proceden del listado de Canvas aportado por el estudiante, no de acceso a su cuenta.
@@ -40,7 +40,7 @@ El estado real y cualquier cambio de requisitos se comprueban en tu cuenta de Ca
 4. Completa una reflexión basada en un ejemplo genérico.
 5. Vuelve a Canvas para continuar la lección correspondiente.
 
-**Progreso:** disponer del material no demuestra que lo hayas aprendido. La lección 5 se preparará cuando se comparta su contenido; no hay enlaces falsos a páginas todavía inexistentes.
+**Progreso:** disponer del material no demuestra que lo hayas aprendido. Las cinco lecciones y el cierre tienen apuntes; lectura, práctica y evaluación siguen bajo responsabilidad del estudiante. La introducción opcional aún requiere su texto.
 
 ## Anexos para profundizar
 
@@ -52,3 +52,7 @@ Son ampliaciones educativas; no agregan requisitos oficiales al curso.
 - **Lección 3:** [Mini-OSDMP](anexos/03-mini-osdmp.md) · [Mapa internacional de planes](anexos/03-planes-y-recursos-globales.md) · [PDF SMD y procedencia](../../assets/docs/README.md).
 
 - **Lección 4:** [Recursos y fuentes](anexos/04-recursos-y-fuentes.md) · [Ejemplo sintético reproducible](../../ejemplos/leccion-04/README.md).
+
+
+- **Lección 5:** [Fuentes y precisiones](anexos/05-recursos-y-precisiones.md).
+- **Biblioteca complementaria:** [Ética AGU](../../modulos/etica-ia-agu/README.md) · [Guía NASA](../../modulos/guia-nasa-smd/README.md) · [Cuaderno práctico](../../modulos/cuaderno-aplicacion.md). Estas rutas no añaden requisitos oficiales al curso.

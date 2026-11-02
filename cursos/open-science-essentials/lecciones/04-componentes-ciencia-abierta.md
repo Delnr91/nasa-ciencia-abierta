@@ -297,4 +297,4 @@ Se contrastaron Open Data Handbook, OSI, Zenodo mediante API, README de RAPID, C
 
 Las referencias del curso sobre reutilización (Hemphill), pesca (Guillemin), Beirut (Chan) y taller de datos (El-Gebali) se incluyen como lecturas, sin afirmar revisión íntegra. La referencia de Maxmen no se usa para confirmar un relato que no coincide con su contexto visible.
 
-[← Lección 3](03-planificacion-ciencia-abierta.md) · [📘 Curso](../README.md) · **Lección 5: pendiente de contenido.**
+[← Lección 3](03-planificacion-ciencia-abierta.md) · [📘 Curso](../README.md) · [Lección 5 · Herramientas →](05-herramientas-ciencia-abierta.md)

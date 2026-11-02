@@ -76,3 +76,31 @@ Resultado de la comprobación de esta entrega: 183 enlaces internos sin incidenc
 ## Acceso rápido desde GitHub e iPad · 28-10-2026
 
 Se confirma la publicación de la lección 4 en main y se coloca su acceso al comienzo del README, antes de la portada. Se añade una ruta de aplicación enlazada a los materiales existentes y se actualiza el índice de Essentials. La lección 5 permanece pendiente de recibir el contenido de Canvas: no se inventa ni se marca completada. Se comprueban rutas y render GFM; no se declara una prueba física en iPad.
+
+
+## Lección 5, cierre y biblioteca documental · 02-11-2026
+
+### Alcance y procedencia
+
+Se incorpora el texto aportado por el estudiante de Tools for Open Science y Next Steps. Se redactan apuntes en español, práctica, preguntas originales, guiones de lectura y recursos. Se conserva Essentials separado de Open Science 101; no se marca progreso ni se accede a Canvas.
+
+Se extrae texto de los dos PDF aportados: informe AGU de 89 páginas y guía NASA SMD v2.2 de 25 páginas. La ficha AGU declara CC BY 4.0 y condición de preprint no revisado por pares. Se crea una adaptación extensa en español: nueve capítulos AGU y cinco NASA, más índices y cuaderno práctico. No se declara traducción literal completa ni se produce un PDF traducido. La bibliografía y los marcos externos del informe no se presentan como una auditoría independiente de todas sus fuentes.
+
+Las gráficas AGU de páginas PDF 71–72 y el esquema de PDF 80 se inspeccionan visualmente. La tabla educativa conserva porcentajes y escalas de la encuesta, sin generalización poblacional ni recálculo desde microdatos. Se diferencia numeración del visor y número impreso.
+
+### Precisiones documentales
+
+Se distingue preprint de manuscrito aceptado; se aclara que DOI no valida calidad y archivo no certifica software. Se contrasta la retirada de Mercurial en Bitbucket Cloud, el alcance del NTR NASA, los términos CMIP6, condiciones CC y la diferencia entre financiación pública y obra gubernamental. El aviso NIH de 2023 se presenta con su alcance de revisión confidencial, no como prohibición universal. La denominación SI de la fuente NASA se conserva sin atribuir capacidades generales. Nature bloqueó el acceso automatizado al texto de su política: no se afirma revisión íntegra de esa página.
+
+### Verificaciones de esta entrega
+
+- 376 enlaces internos, incluidas rutas e identificadores de encabezados, sin incidencias. Se excluye la plantilla no publicada de lecciones de la comprobación de enlaces de contenido.
+- Render GFM de los 30 documentos Markdown nuevos o modificados, incluida esta actualización de verificación; tablas y desplegables comprobados cuando aparecen.
+- 12 SVG originales con XML válido, título, descripción y render mediante librsvg/Cairo. Se inspecciona visualmente el diagrama de herramientas; no se declara inspección manual de todos los diagramas en todos los dispositivos.
+- Las imágenes tienen texto alternativo y explicación escrita junto al material educativo. Hay guiones textuales, sin grabaciones de audio ni herramientas interactivas externas provisionadas.
+- Revisión de los textos modificados para detectar patrones de credenciales y nombres o rutas de proyectos privados, sin incidencias. No se modifica código ejecutable ni configuración global.
+- Se comprueban las cifras sintéticas del cuaderno frente al CSV existente: seis registros, media total 21 y medias A=22, B=20. No se ejecutan modelos ambientales ni experimentos de los artículos citados.
+- La edición NASA conserva el hash ya registrado; el PDF AGU se conserva íntegro respecto del archivo recibido y su hash queda en el registro de documentos. No se afirma identidad con una descarga independiente de ESS Open Archive.
+- El trabajo se prepara y publica directamente mediante API de GitHub, sin checkout ni nuevos archivos locales. La publicación se comprueba comparando el contenido remoto y preservando los archivos no modificados.
+
+No se declara una prueba física en iPad, certificación, insignia obtenida, integración con Zenodo ni cumplimiento legal o institucional de un proyecto real. La revisión de comprensión por el estudiante sigue pendiente.
