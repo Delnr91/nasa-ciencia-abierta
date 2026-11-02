@@ -18,6 +18,10 @@
 
 > Este repositorio acompaña tu estudio. No es una publicación oficial de NASA ni reemplaza Canvas o sus evaluaciones. No necesitas instalar programas, pagar ni descargar el repositorio para leerlo.
 
+## Herramienta para proyectos de software
+
+[🔎 Skill de revisión de ciencia abierta](skills/revisar-ciencia-abierta/SKILL.md): guía reutilizable para que un asistente revise proyectos con evidencia, a partir del material de este repositorio. [Fuentes y alcance](skills/revisar-ciencia-abierta/references/fuentes.md). Es una primera versión educativa y requiere revisión humana. Para usarla en Codex, copia la carpeta completa `skills/revisar-ciencia-abierta` a `~/.codex/skills/`, reinicia la sesión y solicítala como `$revisar-ciencia-abierta`.
+
 ## Estudia y aplícalo
 
 Una ruta breve para convertir los apuntes en decisiones y productos. Los ejercicios siguen pendientes de tu revisión; no representan trabajo ya realizado ni aprobación de Canvas.
