@@ -20,7 +20,7 @@
 
 ## Herramienta para proyectos de software
 
-[🔎 Skill de revisión de ciencia abierta](skills/revisar-ciencia-abierta/SKILL.md): guía reutilizable para que un asistente revise proyectos con evidencia, a partir del material de este repositorio. [Fuentes y alcance](skills/revisar-ciencia-abierta/references/fuentes.md). Es una primera versión educativa y requiere revisión humana. Para usarla en Codex, copia la carpeta completa `skills/revisar-ciencia-abierta` a `~/.codex/skills/`, reinicia la sesión y solicítala como `$revisar-ciencia-abierta`.
+[🔎 Skill de revisión de ciencia abierta: guía de instalación y uso](skills/revisar-ciencia-abierta/README.md): guía reutilizable para que un asistente revise proyectos con evidencia, a partir del material de este repositorio. [Fuentes y alcance](skills/revisar-ciencia-abierta/references/fuentes.md). Es una primera versión educativa y requiere revisión humana. La guía explica instalación para Codex, Claude Code, Gemini CLI y GitHub Copilot, con fuentes y estado de verificación.
 
 ## Estudia y aplícalo
 
