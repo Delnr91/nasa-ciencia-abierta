@@ -55,4 +55,10 @@ El documento explica que es orientación y no establece por sí solo requisitos.
 - [AGU · nueve capítulos](../../modulos/etica-ia-agu/README.md), incluidos seis módulos, aplicación, glosario y anexos.
 - [NASA SMD · cinco capítulos](../../modulos/guia-nasa-smd/README.md), con desarrollo de planificación, publicaciones, datos, software y taller.
 
-Son adaptaciones educativas con conceptos traducidos, no traducciones literales completas de los PDF. Las figuras nuevas son originales; no se reutilizan marcas como identidad del repositorio ni se simulan insignias.
+Son adaptaciones educativas con conceptos traducidos, no traducciones literales completas de los PDF. Las figuras nuevas son originales; las marcas de los materiales fuente se muestran en su contexto documental, sin representar la identidad del repositorio.
+
+
+## Vistas previas e insignia
+
+- La [portada del informe AGU](agu-portada-2023.jpg) es una rasterización de la página 2 del PDF recibido, conservada para identificar la obra. Crédito: Stall y colaboradores / American Geophysical Union, 2023, [DOI de la versión](https://doi.org/10.22541/essoar.168132856.66485758/v1); el informe declara [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.es). Cambio realizado: conversión de esa página a imagen. Los elementos de terceros y las marcas conservan sus condiciones.
+- La [imagen de la insignia Open Science Essentials](../insignia-open-science-essentials.png) fue aportada por la persona titular para mostrar el logro que inspira esta biblioteca. Se muestra en contexto, sin atribuir patrocinio al repositorio. Sus marcas e imagen conservan sus condiciones; no se aplica automáticamente la licencia de las ilustraciones propias. La imagen no verifica por sí sola la credencial.

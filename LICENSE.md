@@ -23,3 +23,8 @@ El archivo `ejemplos/leccion-04/analisis.py` y el código original de las celdas
 El PDF [AGU, ética de IA/ML, v1 de 2023](assets/docs/AGU-Etica-IA-ML-2023-v1.pdf) es obra externa de sus autores y declara CC BY 4.0 en su ficha. Se conserva íntegro con sus avisos; no se atribuye su autoría a este repositorio. Sus materiales de terceros conservan las condiciones correspondientes.
 
 La [adaptación educativa en español](modulos/etica-ia-agu/README.md) reconoce esa fuente, enlaza su DOI y declara cambios de idioma, organización, ejemplos y ejercicios. Se ofrece bajo CC BY 4.0. Las explicaciones propias sobre la guía NASA también siguen la licencia del material original del repositorio; el PDF NASA conserva sus condiciones y exclusiones ya indicadas.
+
+
+## Insignia y vistas previas
+
+La [imagen de la insignia del curso](assets/insignia-open-science-essentials.png) y las portadas de documentos externos se muestran para identificar el logro y las fuentes. Son materiales externos: sus marcas y derechos conservan las condiciones correspondientes. No son identidad ni aval del repositorio. Consulta la [procedencia de imágenes](assets/docs/README.md).

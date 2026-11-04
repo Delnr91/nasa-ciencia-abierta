@@ -1,104 +1,110 @@
-# Ciencia abierta · NASA en español
+# 🌍 Biblioteca de ciencia abierta
 
-**Idioma / Language / 语言:** 🇪🇸 Español · [🇬🇧 English summaries](idiomas/english.md) · [🇨🇳 中文导览](idiomas/chinese.md)
+**Aprende a compartir conocimiento científico y aplica lo aprendido a proyectos de software.** Una biblioteca educativa independiente, abierta a personas que empiezan, estudiantes, investigadoras y desarrolladores.
 
-**[🎧 Escuchar las cinco lecciones en español](audio/essentials/README.md)** · Voz sintética, archivos MP3 descargables.
+[🇪🇸 Español](README.md) · [🇬🇧 English summaries](idiomas/english.md) · [🇨🇳 中文导览](idiomas/chinese.md) · [🎧 Escuchar en español](audio/essentials/README.md)
 
-## Retoma tu estudio
+![Pictogramas de libro, audífonos y caja de herramientas: aprender, escuchar y aplicar ciencia abierta](assets/biblioteca-aprender-escuchar-aplicar.svg)
 
-**[📖 Abrir lección 5 · Herramientas para la ciencia abierta](cursos/open-science-essentials/lecciones/05-herramientas-ciencia-abierta.md)**
+> **Elige tu camino:** 📖 estudia los fundamentos · 🎧 escucha las lecciones · 🛠️ usa la skill para revisar un proyecto.
 
-[📖 Lección 4](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md) · [🧪 Aplicar con el ejemplo sintético](ejemplos/leccion-04/README.md) · [📘 Índice del curso](cursos/open-science-essentials/README.md) · [🏷️ Glosario](GLOSARIO.md)
+[📖 Empezar por la lección 1](cursos/open-science-essentials/lecciones/01-por-que-ciencia-abierta.md) · [🛠️ Conocer e instalar la skill](skills/revisar-ciencia-abierta/README.md) · [📚 Ver los documentos](#-biblioteca-de-documentos)
 
-**Rama de estudio: `main`.** Las cinco lecciones y «Próximos pasos» están disponibles. Lectura, práctica y evaluación del estudiante no se marcan automáticamente.
+## 🧭 ¿Qué encontrarás aquí?
 
-**[📚 Biblioteca de documentos en español](modulos/README.md)** · [Ética de IA/ML · AGU, 89 páginas de fuente](modulos/etica-ia-agu/README.md) · [Guía NASA SMD, 25 páginas de fuente](modulos/guia-nasa-smd/README.md) · [📝 Cuaderno práctico](modulos/cuaderno-aplicacion.md)
-
-![Dos rutas de aprendizaje: Essentials primero y Open Science 101 después](assets/portada.svg)
-
-**Aprende a compartir, revisar y reutilizar conocimiento científico.** Apuntes educativos independientes, en español claro, para estudiar desde GitHub en computador, teléfono o iPad.
-
-[📘 Empezar el primer curso](cursos/open-science-essentials/README.md) · [▶ Leer la lección 1](cursos/open-science-essentials/lecciones/01-por-que-ciencia-abierta.md) · [🌍 Recursos gratuitos](RECURSOS.md) · [🧭 Cómo usar esto](COMO-ESTUDIAR.md)
-
-> Este repositorio acompaña tu estudio. No es una publicación oficial de NASA ni reemplaza Canvas o sus evaluaciones. No necesitas instalar programas, pagar ni descargar el repositorio para leerlo.
-
-## Herramienta para proyectos de software
-
-[🔎 Skill de revisión de ciencia abierta: guía de instalación y uso](skills/revisar-ciencia-abierta/README.md): guía reutilizable para que un asistente revise proyectos con evidencia, a partir del material de este repositorio. [Fuentes y alcance](skills/revisar-ciencia-abierta/references/fuentes.md). Es una primera versión educativa y requiere revisión humana. La guía explica instalación para Codex, Claude Code, Gemini CLI y GitHub Copilot, con fuentes y estado de verificación.
-
-## Estudia y aplícalo
-
-Una ruta breve para convertir los apuntes en decisiones y productos. Los ejercicios siguen pendientes de tu revisión; no representan trabajo ya realizado ni aprobación de Canvas.
-
-| Paso | Lo que estudias | Una aplicación concreta |
+| Si quieres… | Empieza aquí | Qué puedes hacer |
 |---|---|---|
-| 1 · Comprender | [Por qué ciencia abierta](cursos/open-science-essentials/lecciones/01-por-que-ciencia-abierta.md) | Escribe un beneficio y un límite para un ejemplo genérico |
-| 2 · Decidir | [Preocupaciones y consideraciones](cursos/open-science-essentials/lecciones/02-preocupaciones-y-consideraciones.md) | Distingue qué puedes compartir y qué debes proteger |
-| 3 · Planificar | [Planificación](cursos/open-science-essentials/lecciones/03-planificacion-ciencia-abierta.md) | Completa un [mini-OSDMP](cursos/open-science-essentials/anexos/03-mini-osdmp.md) con un responsable y un plazo |
-| 4 · Preparar una entrega | [Componentes](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md) | Revisa [datos, diccionario, código y resultados](ejemplos/leccion-04/README.md) del paquete sintético |
-| 5 · Elegir herramientas | [Herramientas para la ciencia abierta](cursos/open-science-essentials/lecciones/05-herramientas-ciencia-abierta.md) | Relaciona historial, permisos, identificadores y archivo en el [cuaderno práctico](modulos/cuaderno-aplicacion.md) |
+| 📖 Aprender desde cero | [Fundamentos de ciencia abierta](cursos/open-science-essentials/README.md) | Recorrer cinco lecciones, ejemplos y preguntas |
+| 🎧 Estudiar en movimiento | [Audios de las cinco lecciones](audio/essentials/README.md) | Escuchar o descargar lecturas en español |
+| 🛠️ Aplicar lo aprendido | [Skill de revisión](skills/revisar-ciencia-abierta/README.md) | Pedir a un asistente que revise un proyecto |
+| 📚 Profundizar | [Biblioteca de documentos](#-biblioteca-de-documentos) | Abrir los PDF y sus guías de estudio |
+| 🧪 Practicar | [Ejemplo sintético](ejemplos/leccion-04/README.md) · [Cuaderno de trabajo](modulos/cuaderno-aplicacion.md) | Conectar datos, código y resultados |
 
-**Desde iPad:** abre el repositorio, entra en `main` si estás viendo otra rama y usa el enlace **Abrir lección 5** al comienzo de este README. También puedes abrir directamente [la lección 4](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md). El notebook permite consultar salidas guardadas; GitHub no ejecuta sus celdas al leerlo.
+No necesitas saber programar para comenzar. Cada pictograma tiene palabras y los materiales escritos se pueden navegar mediante enlaces.
 
-## Elige qué necesitas ahora
+## 📖 Ruta de aprendizaje · Empieza aquí
 
-| Quiero… | Pulsa aquí |
+El primer libro de esta biblioteca aborda **Open Science Essentials: fundamentos de ciencia abierta**. Las páginas se pueden leer en orden o consultar por tema.
+
+| Paso | Lección | Al terminar podrás… |
+|---|---|---|
+| 🌱 1 | [¿Por qué ciencia abierta?](cursos/open-science-essentials/lecciones/01-por-que-ciencia-abierta.md) | Explicar sus beneficios y la reproducibilidad |
+| 🛡️ 2 | [Preocupaciones y consideraciones](cursos/open-science-essentials/lecciones/02-preocupaciones-y-consideraciones.md) | Reconocer barreras y decidir qué información proteger |
+| 🗺️ 3 | [Planificación para la ciencia abierta](cursos/open-science-essentials/lecciones/03-planificacion-ciencia-abierta.md) | Comprender FAIR y preparar un plan de gestión |
+| 🧩 4 | [Componentes de la ciencia abierta](cursos/open-science-essentials/lecciones/04-componentes-ciencia-abierta.md) | Relacionar datos, código, resultados y publicaciones |
+| 🧰 5 | [Herramientas para la ciencia abierta](cursos/open-science-essentials/lecciones/05-herramientas-ciencia-abierta.md) | Elegir repositorios, licencias e identificadores |
+
+Después puedes explorar [Próximos pasos](cursos/open-science-essentials/proximos-pasos.md) y las [preguntas de práctica](cursos/open-science-essentials/evaluacion.md). Las preguntas son educativas y no son el examen oficial.
+
+### Así se estudia cada lección
+
+**👀 Comprende → 🖼️ observa → ✍️ practica → 💬 explica → ✅ revisa.**
+
+Cada lección reúne texto en español, ejemplos, pictogramas o diagramas con alternativa escrita, actividades y fuentes. Puedes avanzar a tu ritmo y volver a cualquier sección.
+
+## 🛠️ Una herramienta para aplicar lo aprendido
+
+### ¿Qué es la skill?
+
+Una **skill** es una carpeta de instrucciones que ayuda a un asistente de inteligencia artificial a realizar una tarea. La skill de esta biblioteca guía una **revisión de ciencia abierta en proyectos de software científico**.
+
+Busca evidencias sobre documentación, datos, código, licencias, versiones y reproducibilidad. Presenta lo observado, las propuestas y lo que falta comprobar. Es una ayuda para la revisión humana; no emite una certificación.
+
+### Cómo comenzar
+
+1. Abre la [guía de la skill](skills/revisar-ciencia-abierta/README.md).
+2. Elige tu asistente: la guía describe rutas para **Codex, Claude Code, Gemini CLI y GitHub Copilot**.
+3. Copia la carpeta completa de la skill y sus referencias siguiendo las instrucciones de tu herramienta.
+4. En el proyecto que quieras revisar, pide:
+
+> Usa la skill `revisar-ciencia-abierta` para revisar este proyecto en modo de solo lectura. Indica qué evidencias encontraste, qué podría mejorarse y qué no pudiste comprobar.
+
+5. Revisa los resultados y decide qué cambios realizar.
+
+La instalación y activación real **no se han probado en cada asistente**; consulta la documentación oficial enlazada en la guía. [Ver instrucciones de la skill](skills/revisar-ciencia-abierta/SKILL.md) · [Ver primera revisión de esta biblioteca](skills/revisar-ciencia-abierta/REVISION.md).
+
+## 🎧 Escucha y accede a tu manera
+
+- **Cinco lecciones en MP3:** [escuchar o descargar](audio/essentials/README.md). Son lecturas automáticas con voz sintética en español.
+- **Otros documentos:** utiliza la lectura de pantalla disponible en tu dispositivo. La [guía de estudio](COMO-ESTUDIAR.md) explica cómo hacerlo en iPad.
+- **Sin conexión:** descarga el audio antes de viajar; para leer otras páginas sin internet debes guardarlas en tu dispositivo.
+- **Idiomas:** las lecciones completas están en español. Hay [resúmenes en inglés](idiomas/english.md) y [chino](idiomas/chinese.md); todavía no son traducciones completas.
+
+## 📚 Biblioteca de documentos
+
+Abre las portadas para consultar los PDF originales o elige sus guías de estudio en español. Para guardar un PDF, ábrelo y usa la opción de descarga de GitHub o de tu navegador.
+
+| 🚀 Guía de ciencia abierta · NASA SMD | 🤖 Ética de IA y aprendizaje automático · AGU |
 |---|---|
-| Entender la idea en dos minutos | [Resumen visual de la lección 1](cursos/open-science-essentials/lecciones/01-por-que-ciencia-abierta.md#en-dos-minutos) |
-| Estudiar el primer curso en orden | [Open Science Essentials](cursos/open-science-essentials/README.md) |
-| Practicar antes del examen | [Preguntas con respuestas desplegables](cursos/open-science-essentials/lecciones/01-por-que-ciencia-abierta.md#comprueba-lo-que-entendiste) |
-| Encontrar palabras en inglés | [Glosario español–inglés](GLOSARIO.md) |
-| Aprender con texto, imágenes o lectura en voz alta | [Guía de estudio accesible](COMO-ESTUDIAR.md) |
-| Ver datos, código y resultados juntos | [Ejemplo sintético y cuaderno](ejemplos/leccion-04/README.md) |
-| Corregir algo o proponer un recurso | [Cómo contribuir](CONTRIBUTING.md) |
+| [<img src="assets/leccion-03-portada-guia-nasa.jpg" width="210" alt="Portada de la guía NASA: una figura asciende por una escalera hacia símbolos de ciencia abierta y motivos espaciales">](assets/docs/SMD-Open-Source-Science-Guidance-v2.2-20250205.pdf) | [<img src="assets/docs/agu-portada-2023.jpg" width="210" alt="Portada del informe AGU: la Tierra desde el espacio y el título sobre uso ético de inteligencia artificial y aprendizaje automático">](assets/docs/AGU-Etica-IA-ML-2023-v1.pdf) |
+| **25 páginas · inglés · versión 2.2 de 2025** | **89 páginas · inglés · preprint de 2023** |
+| [📄 Abrir o descargar PDF](assets/docs/SMD-Open-Source-Science-Guidance-v2.2-20250205.pdf) · [📖 Guía en español: 5 capítulos](modulos/guia-nasa-smd/README.md) | [📄 Abrir o descargar PDF](assets/docs/AGU-Etica-IA-ML-2023-v1.pdf) · [📖 Guía en español: 9 capítulos](modulos/etica-ia-agu/README.md) |
 
-## Dos cursos, dos rutas
+Las guías son adaptaciones educativas en español con conceptos, ejemplos y prácticas. [Consultar procedencia, versiones y derechos](assets/docs/README.md).
 
-| Orden | Curso | Qué encontrarás aquí | Estado real del material |
-|---|---|---|---|
-| 1 | [Open Science Essentials](cursos/open-science-essentials/README.md) | Introducción opcional, cinco lecciones, siguientes pasos y evaluación final | Cinco lecciones y siguientes pasos disponibles; introducción opcional por completar |
-| 2 | [Open Science 101](cursos/open-science-101/README.md) | Ruta separada para la formación extensa | Estructura de Canvas pendiente de aportar |
+## 🏅 El aprendizaje que inspira esta biblioteca
 
-La [oferta oficial de NASA](https://science.nasa.gov/open-science/training/) distingue las dos formaciones. Preparar un apunte no significa haber completado una lección ni aprobado un examen.
+<img src="assets/insignia-open-science-essentials.png" width="135" alt="Insignia del curso NASA Open Science Essentials, con la Tierra y una galaxia">
 
-**Última incorporación · 02-11-2026:** [Lección 5](cursos/open-science-essentials/lecciones/05-herramientas-ciencia-abierta.md), [Próximos pasos](cursos/open-science-essentials/proximos-pasos.md) y dos [rutas de documentos en español](modulos/README.md), desarrolladas por capítulos con prácticas, fuentes y diagramas. Conservamos el [paquete sintético reproducible de la lección 4](ejemplos/leccion-04/README.md).
+La persona que impulsa este proyecto compartió la insignia obtenida en **Open Science Essentials** como parte del origen de la biblioteca. La imagen identifica ese logro; el proyecto y la skill son independientes y no se presentan como productos ni avales oficiales de NASA. No se incluye el certificado personal. La imagen por sí sola no sustituye un enlace de verificación de la credencial.
 
-**Profundización de la lección 2:** [Anexo legal: licencias y contribuciones](cursos/open-science-essentials/anexos/02-aspectos-legales-codigo-abierto.md) · [Políticas de publicación de código](cursos/open-science-essentials/lecciones/02-preocupaciones-y-consideraciones.md#8-financiación-pública-y-publicación-de-código).
+## 🌱 Un proyecto vivo
 
-## Así funciona cada lección
+Hoy está disponible la ruta de **fundamentos** y sus materiales complementarios. La biblioteca seguirá creciendo con correcciones, recursos y nuevas rutas de estudio a medida que se preparen y revisen.
 
-**Comprender → Ver → Aplicar → Recordar → Revisar.**
+| Ruta | Estado |
+|---|---|
+| **Open Science Essentials** | Cinco lecciones disponibles; texto de introducción opcional pendiente |
+| **Open Science 101** | Ruta separada reservada para material futuro; aún no desarrollada |
 
-Cada lección publicada tendrá un nombre en español junto al original, resumen breve, imagen explicativa con alternativa textual, conceptos desarrollados, ejemplos, práctica, preguntas originales y recursos extra con idioma y formato.
+[Cómo contribuir](CONTRIBUTING.md) · [Recursos internacionales](RECURSOS.md) · [Glosario](GLOSARIO.md) · [Procedencia y verificación](VERIFICACION.md)
 
-<details>
-<summary>¿Qué significa que el README sea interactivo?</summary>
+## ⚖️ Licencias y reconocimiento
 
-Puedes pulsar enlaces, recorrer índices y desplegar explicaciones y respuestas. No hay un examen automático ni una app oculta. Las casillas y notas personales se guardan solo si editas un archivo en GitHub y confirmas el cambio; no se sincronizan con Canvas.
+El texto educativo y los diagramas originales se comparten bajo [CC BY 4.0](LICENSE.md); el código del ejemplo indicado utiliza [MIT](ejemplos/leccion-04/LICENSE). Los PDF, portadas, insignias y materiales de terceros conservan sus propias condiciones y atribuciones. Se utilizó asistencia de IA en la redacción, con revisión documental.
 
-</details>
-
-<details>
-<summary>¿Estoy empezando con herramientas digitales?</summary>
-
-Empieza con **Leer la lección 1**. Lee «En dos minutos», mira su imagen y abre solo una pregunta. Para volver, pulsa «Volver al curso». Los iconos siempre llevan palabras: no necesitas adivinar qué significan.
-
-</details>
-
-## Estudio abierto y responsable
-
-- Contenido principal en español; términos ingleses para reconocerlos en Canvas.
-- Recursos internacionales seleccionados por utilidad: español, inglés y chino.
-- Datos de ejemplo genéricos o sintéticos; no se incorpora información de proyectos privados.
-- Sin respuestas copiadas de evaluaciones oficiales ni certificados inventados.
-- Texto, datos sintéticos e ilustraciones originales bajo [CC BY 4.0](LICENSE.md); código del ejemplo 4 bajo [MIT](ejemplos/leccion-04/LICENSE). Las fuentes externas conservan su licencia.
-- Redacción asistida por IA con revisión documental; revisión del estudiante pendiente.
-
-**Continuación:** estudia las cinco lecciones, revisa [Próximos pasos](cursos/open-science-essentials/proximos-pasos.md) y prepara la evaluación en Canvas. Los [módulos de documentos](modulos/README.md) son complementarios; Open Science 101 sigue siendo una ruta distinta.
-
-[Procedencia y verificación](VERIFICACION.md) · [Reglas editoriales](AGENTS.md) · [Plantilla para próximas lecciones](plantillas/LECCION.md)
-
+Las guías y la skill son recursos educativos independientes. No representan afiliación, revisión ni certificación del repositorio por NASA, MIT u otra institución.
 
 ---
 
-Desarrollado por **Lattices Startup** · Proyecto educativo independiente basado en el estudio de ciencia abierta.
+Desarrollado por **Lattices Startup** · Una biblioteca abierta para aprender y compartir conocimiento.
