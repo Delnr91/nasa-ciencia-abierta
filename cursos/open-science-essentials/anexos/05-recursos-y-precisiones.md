@@ -15,7 +15,7 @@
 | [Creative Commons CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.es) | ES · resumen de instrumento | Distinguir dedicación al dominio público y otros derechos |
 | [OpenSciency: herramientas](https://opensciency.github.io/sprint-content/open-tools-resources/lesson1-intro-open-science-tools.html) | EN · lección | Ampliar el concepto de herramienta e infraestructura humana |
 
-Los guiones de lectura son texto, no audios grabados. Los nuevos diagramas son originales; las imágenes mencionadas en Canvas no se dan por recibidas ni se copian sin revisar sus condiciones.
+Los guiones son texto; existe además una lectura automática en MP3 de las cinco lecciones. Los nuevos diagramas son originales; las imágenes mencionadas en Canvas no se dan por recibidas ni se copian sin revisar sus condiciones.
 
 ## Precisión de conceptos
 

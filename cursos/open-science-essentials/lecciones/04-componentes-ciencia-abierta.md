@@ -1,5 +1,8 @@
 # Lección 4 · Componentes de la ciencia abierta
 
+🎧 [Escuchar o descargar esta lección en español](../../../audio/essentials/leccion-04.mp3) · Voz sintética. [Detalles y descargas](../../../audio/essentials/README.md).
+
+
 **Original:** Lesson 4 – Components of Open Science  
 **Curso:** Open Science Essentials · **Material:** disponible · **Comprensión:** pendiente de comprobar
 
@@ -287,7 +290,7 @@ No. Puede mejorar alcance y accesibilidad, pero la calidad requiere examinar mé
 
 Los componentes de la investigación están conectados. Los datos muestran con qué trabajamos; el código explica el cálculo; los resultados expresan lo obtenido y el informe reúne contexto y conclusiones. Para reutilizarlos necesitamos versiones, permisos y documentación. Los metadatos explican contenido, estructura y gestión. Código abierto no significa siempre gratuito, y acceso abierto no significa siempre pagar. Una buena entrega permite seguir el recorrido, comprobarlo y reconocer sus límites.
 
-**Guion textual para una función de voz disponible en el dispositivo; no hay MP3 generado.**
+**Guion textual para una función de voz disponible en el dispositivo.** También está disponible la lectura automática en MP3.
 
 ## Fuentes y límites
 

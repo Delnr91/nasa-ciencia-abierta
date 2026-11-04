@@ -19,7 +19,7 @@ Un enlace abre otra página. El botón Atrás del navegador vuelve a la anterior
 | Texto breve | Resumen y tabla de ideas clave |
 | Ver relaciones | Infografías y sus descripciones |
 | Profundizar | Desarrollo y fuentes originales |
-| Escuchar | Lectura en voz alta del dispositivo, si está disponible; no hay MP3 propios |
+| Escuchar | [Cinco lecciones en MP3](audio/essentials/README.md) o lectura de pantalla del dispositivo |
 | Recordar activamente | Responde sin apuntes y luego compara |
 | Inglés y español juntos | Consulta el glosario mientras lees Canvas |
 
@@ -36,3 +36,17 @@ Las duraciones son personales. Leer más rápido no equivale a comprender mejor.
 Puedes usar notas personales de tu preferencia. Para editar un archivo del repositorio, el propietario puede abrirlo en GitHub y pulsar el lápiz; otros participantes pueden proponer cambios. Confirmar una edición la guarda en GitHub. Las listas de este material no actualizan Canvas.
 
 **Evita poner datos personales en repositorios o Issues públicos.** Para una reflexión, basta un ejemplo genérico.
+
+
+## Escuchar en iPad durante un viaje
+
+1. Para las cinco lecciones, abre la [lista de MP3](audio/essentials/README.md), elige una y usa el reproductor o descarga disponible. Si GitHub no la reproduce, abre el enlace en Safari. Para escuchar sin conexión, descarga el archivo antes del viaje.
+2. Para otros documentos, ve a **Ajustes → Accesibilidad → Contenido leído** (en algunas versiones, **Leer y hablar**) y activa **Leer pantalla** o **Leer selección**.
+3. Abre un documento legible y desliza dos dedos hacia abajo desde la parte superior para iniciar la lectura de pantalla; usa los controles para pausar o ajustar velocidad. Los nombres pueden cambiar según la versión.
+4. Para escuchar sin conexión necesitas que el contenido y, si corresponde, la voz estén disponibles en el dispositivo. El repositorio no descarga automáticamente las páginas ni garantiza lectura en segundo plano.
+
+[Guía de Apple para voz y velocidad](https://support.apple.com/en-gb/111798) · [Guía de Apple para iPad](https://support.apple.com/en-ie/guide/ipad/ipad9a247097/27/ipados/27). La experiencia en GitHub y Safari depende del dispositivo; no se probó físicamente en iPad.
+
+## Idiomas
+
+Las lecciones completas están en español. Hay [resúmenes en inglés](idiomas/english.md) y [中文导览](idiomas/chinese.md); no son traducciones completas. Safari puede ofrecer traducción de páginas según idioma y región, con resultados automáticos que conviene revisar ([Apple](https://support.apple.com/en-ie/guide/ipad/ipad957f972d/ipados)).

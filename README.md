@@ -1,5 +1,9 @@
 # Ciencia abierta · NASA en español
 
+**Idioma / Language / 语言:** 🇪🇸 Español · [🇬🇧 English summaries](idiomas/english.md) · [🇨🇳 中文导览](idiomas/chinese.md)
+
+**[🎧 Escuchar las cinco lecciones en español](audio/essentials/README.md)** · Voz sintética, archivos MP3 descargables.
+
 ## Retoma tu estudio
 
 **[📖 Abrir lección 5 · Herramientas para la ciencia abierta](cursos/open-science-essentials/lecciones/05-herramientas-ciencia-abierta.md)**
@@ -93,3 +97,8 @@ Empieza con **Leer la lección 1**. Lee «En dos minutos», mira su imagen y abr
 **Continuación:** estudia las cinco lecciones, revisa [Próximos pasos](cursos/open-science-essentials/proximos-pasos.md) y prepara la evaluación en Canvas. Los [módulos de documentos](modulos/README.md) son complementarios; Open Science 101 sigue siendo una ruta distinta.
 
 [Procedencia y verificación](VERIFICACION.md) · [Reglas editoriales](AGENTS.md) · [Plantilla para próximas lecciones](plantillas/LECCION.md)
+
+
+---
+
+Desarrollado por **Lattices Startup** · Proyecto educativo independiente basado en el estudio de ciencia abierta.

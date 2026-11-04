@@ -40,7 +40,7 @@ Las tres versiones de UNESCO fueron localizadas desde su selector oficial. El vi
 - [Imagen de la lección 1: reproducir frente a replicar](assets/leccion-01-reproducibilidad.svg).
 - [Texto breve para lectura en voz alta](cursos/open-science-essentials/lecciones/01-por-que-ciencia-abierta.md#para-escuchar-o-leer-en-voz-alta).
 
-Las ilustraciones son diagramas originales, no imágenes oficiales de NASA. No hay grabaciones MP3 propias; el texto puede leerse con una herramienta de voz disponible en tu dispositivo.
+Las ilustraciones son diagramas originales, no imágenes oficiales de NASA. Hay [lecturas automáticas en MP3](audio/essentials/README.md) de las cinco lecciones; otros documentos pueden leerse con la voz del dispositivo.
 
 ## Recursos para la lección 2
 
@@ -76,7 +76,7 @@ Las ilustraciones son diagramas originales, no imágenes oficiales de NASA. No h
 - [GO FAIR](https://www.gofair.foundation/fair-principles): fuente para los principios; inglés.
 - [Flujo visual](assets/leccion-03-flujo.svg) y [mapa FAIR](assets/leccion-03-fair.svg): ilustraciones originales en español, con alternativa textual en la lección.
 
-No se ha generado una grabación de audio ni una traducción oficial del PDF. El guion puede usarse con una función de lectura del dispositivo cuando exista.
+Hay MP3 de la lección 3; no se ha creado una traducción oficial del PDF. El guion puede usarse con una función de lectura del dispositivo cuando exista.
 
 ## Lección 4 · Componentes y práctica reproducible
 
@@ -85,7 +85,7 @@ No se ha generado una grabación de audio ni una traducción oficial del PDF. El
 - [Paquete sintético](ejemplos/leccion-04/README.md): CSV, diccionario, código, notebook y resultados; puede leerse sin ejecutar programas.
 - Diagramas originales: [componentes](assets/leccion-04-componentes.svg), [metadatos](assets/leccion-04-metadatos.svg) y [acceso abierto](assets/leccion-04-acceso-abierto.svg).
 
-La ejecución del ejemplo usa datos inventados y Python estándar. No se ha ejecutado RAPID, creado una sesión Binder ni generado audio. Las salidas del notebook se comprueban antes de publicar.
+La ejecución del ejemplo usa datos inventados y Python estándar. No se ha ejecutado RAPID ni creado una sesión Binder; existe lectura automática en MP3 de la lección 4. Las salidas del notebook se comprueban antes de publicar.
 
 
 ## Lección 5 y biblioteca de estudio en español
@@ -97,4 +97,4 @@ La ejecución del ejemplo usa datos inventados y Python estándar. No se ha ejec
 - [Cuaderno de aplicación](modulos/cuaderno-aplicacion.md): fichas editables y criterios para ejemplos sintéticos.
 - [Próximos pasos](cursos/open-science-essentials/proximos-pasos.md): continuidad gradual, reflexión y recursos comunitarios.
 
-Los dos PDF originales permanecen en inglés. El desarrollo en Markdown traduce y explica conceptos importantes con prácticas; no es una traducción literal completa ni una edición oficial. Los diagramas son originales y tienen equivalentes escritos. No se generaron grabaciones ni se activaron servicios externos.
+Los dos PDF originales permanecen en inglés. El desarrollo en Markdown traduce y explica conceptos importantes con prácticas; no es una traducción literal completa ni una edición oficial. Los diagramas son originales y tienen equivalentes escritos. Los MP3 de las cinco lecciones son lecturas con voz sintética; no se activaron servicios externos.

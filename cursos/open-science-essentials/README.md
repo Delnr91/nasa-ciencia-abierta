@@ -8,6 +8,8 @@
 
 > En Canvas aparece un módulo principal llamado **Open Science Essentials**. Dentro están las páginas de las cinco lecciones, «Next Steps» y el examen. Aquí cada lección tendrá su propia página; no se presenta como un curso diferente.
 
+🎧 [Escuchar o descargar las cinco lecciones en español](../../audio/essentials/README.md) · [English summaries](../../idiomas/english.md) · [中文导览](../../idiomas/chinese.md)
+
 ## Arquitectura del primer curso
 
 | Bloque en Canvas | Nombre en español | Material en este repositorio |

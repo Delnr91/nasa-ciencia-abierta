@@ -1,5 +1,8 @@
 # Lección 3 · Planificación para la ciencia abierta
 
+🎧 [Escuchar o descargar esta lección en español](../../../audio/essentials/leccion-03.mp3) · Voz sintética. [Detalles y descargas](../../../audio/essentials/README.md).
+
+
 **Original:** Lesson 3 – Planning for Open Science  
 **Curso:** Open Science Essentials · **Material:** disponible · **Comprensión:** pendiente de comprobar
 

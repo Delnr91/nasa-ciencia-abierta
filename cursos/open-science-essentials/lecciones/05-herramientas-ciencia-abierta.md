@@ -1,5 +1,8 @@
 # Lección 5 · Herramientas para la ciencia abierta
 
+🎧 [Escuchar o descargar esta lección en español](../../../audio/essentials/leccion-05.mp3) · Voz sintética. [Detalles y descargas](../../../audio/essentials/README.md).
+
+
 **Título original:** Tools for Open Science  
 **Curso:** Open Science Essentials · **Estado:** disponible para estudiar; práctica y dominio pendientes.
 
@@ -272,7 +275,7 @@ El curso pide pensar durante cinco minutos en usos de estas herramientas en estu
 
 “Una herramienta debe resolver una necesidad. El historial explica los cambios. El identificador permite reconocer el producto. La licencia comunica permisos. El archivo conserva una versión. El prerregistro diferencia lo planeado de lo exploratorio. La inteligencia artificial puede ayudar, pero sus salidas necesitan comprobación y una persona responsable.”
 
-Este es un guion textual; no hay un archivo de audio generado.
+Este es un guion textual; también está disponible la lectura automática en MP3.
 
 ## Recursos, procedencia y límites
 

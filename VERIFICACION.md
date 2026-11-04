@@ -104,3 +104,12 @@ Se distingue preprint de manuscrito aceptado; se aclara que DOI no valida calida
 - El trabajo se prepara y publica directamente mediante API de GitHub, sin checkout ni nuevos archivos locales. La publicación se comprueba comparando el contenido remoto y preservando los archivos no modificados.
 
 No se declara una prueba física en iPad, certificación, insignia obtenida, integración con Zenodo ni cumplimiento legal o institucional de un proyecto real. La revisión de comprensión por el estudiante sigue pendiente.
+
+
+## Audios y orientación multilingüe · 04-11-2026
+
+Se generan cinco MP3 en español con voz sintética local eSpeak NG a partir de los textos de las lecciones; se retiran marcas Markdown y direcciones de la locución. Cada lección enlaza su lectura y la página de audio registra tamaños, duración aproximada y SHA-256. La pronunciación y el orden de lectura de tablas pueden necesitar revisión humana; estos archivos no son narración humana ni audiodescripción profesional.
+
+Se incluyen guías resumidas en inglés y chino. Las lecciones completas y el audio son en español; no se presenta esta orientación como traducción completa ni como material oficial de NASA. Se incorpora la atribución de desarrollo solicitada a Lattices Startup.
+
+Los archivos MP3 se validaron con ffprobe y sus metadatos se conservan en la lista de audio. Se comprueban rutas y el render de los documentos modificados; no se ha realizado prueba física en iPad ni auditoría completa de accesibilidad. El certificado personal y la insignia descargados no se incorporaron al repositorio público.

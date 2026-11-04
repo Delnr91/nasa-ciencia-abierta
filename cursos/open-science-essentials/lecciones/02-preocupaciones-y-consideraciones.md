@@ -1,5 +1,8 @@
 # Lección 2 · Preocupaciones y consideraciones al practicar ciencia abierta
 
+🎧 [Escuchar o descargar esta lección en español](../../../audio/essentials/leccion-02.mp3) · Voz sintética. [Detalles y descargas](../../../audio/essentials/README.md).
+
+
 **Original:** Lesson 2 – Concerns and Considerations When Practicing Open Science  
 **Curso:** Open Science Essentials · **Material:** disponible · **Comprensión:** pendiente de comprobar
 
